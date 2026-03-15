@@ -1,16 +1,27 @@
-## Hi there 👋
+# Laura Montonye Reese
 
-<!--
-**montonye-reese/montonye-reese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+EE working in AI governance, model behavior, and accelerated compute at scale.
 
-Here are some ideas to get you started:
+## What you'll find here
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Independent research, proposals, and experiments in:
+* Institutional accountability — ex-ante mechanisms, not ex-post cleanup
+* AI governance architecture — trust frameworks, compute governance, deployment constraints
+* Model behavior — bias, alignment defaults, and how models interact with the humans they serve
+* Democratic resilience — structural analysis of what breaks and what it would take to build stronger
+* Poker strategy
+
+## How I work
+
+Primary sources. I connect domains that may not obviously belong together — sometimes that pans out, sometimes it doesn't. I'd rather update my thinking than defend it.
+
+## What I believe
+
+Institutions can be improved, and institutions can serve humanity with intentionally designed structures derived from evidence and shared experience.
+
+## Why this exists
+
+Everything here is my independent work. It doesn't represent any employer. I publish it here because ideas that stay in private docs don't get pressure-tested.
+
+---
+*Accountability is maintenance, not assumption.*
