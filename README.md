@@ -13,7 +13,7 @@ Independent research, proposals, and experiments in:
 
 ## How I work
 
-Primary sources. I connect domains that may not obviously belong together — sometimes that pans out, sometimes it doesn't. I'd rather update my thinking than defend it.
+Primary sources preferred, if possible, thank you very much yes please and thank you lol.
 
 ## What I believe
 
