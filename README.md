@@ -17,7 +17,7 @@ Primary sources preferred
 
 ## What I believe
 
-Institutions can be improved, and institutions can serve humanity with intentionally designed structures derived from evidence and shared experience.
+Institutions can be improved, and institutions can serve all earthlings with intentionally designed structures derived from evidence and shared experience.
 
 ## Why this exists
 
