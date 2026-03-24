@@ -1,19 +1,19 @@
 # Laura Montonye Reese
 
-EE working in AI governance, model behavior, and accelerated compute at scale.
+Tinkering .
 
 ## What you'll find here
 
 Independent research, proposals, and experiments in:
-* Institutional accountability — ex-ante mechanisms, not ex-post cleanup
-* AI governance architecture — trust frameworks, compute governance, deployment constraints
+* Institutional accountability ideas
+* AI governance architectures — trust frameworks, compute governance, deployment constraints
 * Model behavior — bias, alignment defaults, and how models interact with the humans they serve
 * Democratic resilience — structural analysis of what breaks and what it would take to build stronger
 * Poker strategy
 
 ## How I work
 
-Primary sources preferred, if possible, thank you very much yes please and thank you lol.
+Primary sources preferred
 
 ## What I believe
 
