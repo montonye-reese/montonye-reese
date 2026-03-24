@@ -4,7 +4,6 @@ Tinkering .
 
 ## What you'll find here
 
-Independent research, proposals, and experiments in:
 * Institutional accountability ideas
 * AI governance architectures — trust frameworks, compute governance, deployment constraints
 * Model behavior — bias, alignment defaults, and how models interact with the humans they serve
