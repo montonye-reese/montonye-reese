@@ -12,7 +12,7 @@ Tinkering .
 
 ## How I work
 
-* Principles take primacy. 
+* Principles First: duty to the commons, separation of powers, autonomy, justice, accountability, fair treatment, respect, life, liberty and the pursuit of happiness 
 * Primary sources preferred
 
 ## What I believe
