@@ -4,15 +4,16 @@ Tinkering .
 
 ## What you'll find here
 
+* Model behavior — bias, alignment defaults, and how models interact with the humans they relate to
 * Institutional accountability ideas
 * AI governance architectures — trust frameworks, compute governance, deployment constraints
-* Model behavior — bias, alignment defaults, and how models interact with the humans they serve
 * Democratic resilience — structural analysis of what breaks and what it would take to build stronger
 * Poker strategy
 
 ## How I work
 
-Primary sources preferred
+* Principles take primacy. 
+* Primary sources preferred
 
 ## What I believe
 
