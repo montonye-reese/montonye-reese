@@ -21,7 +21,7 @@ Institutions can be improved, and institutions can serve all earthlings with int
 
 ## Why this exists
 
-Everything here is my independent work. It doesn't represent any employer. I publish it here because ideas that stay in private docs don't get explored, pressure-tested, debated.
+Everything here is my independent work. It doesn't represent any employer. I publish it here because ideas that stay in private docs don't get explored, pressure-tested, debated. And, I want to join the grand conversation.
 
 ---
 *Accountability is maintenance, not assumption.*
