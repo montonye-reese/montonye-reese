@@ -36,4 +36,5 @@ Everything here is my independent work. It doesn't represent any employer. I pub
 ---
 *One line of aspiration >> a hundred lines of constraint*
 *Accountability is maintenance, not assumption*
+*Respect is a Probablitiy Distribution* - Nemotron-3-Super:120b cosplaying as Dr. Jane Nelsen after reading the action bias cross model summary.
 You'll Never Walk Alone - YNWA - Rogers & Hammerstein - covered by Gary and the Pacemakers - and regularly sung in Liverpoll and Glassgow football games. A recording can be hear at tail end of Pink Floyd's Fearless on the Meddle album. 
