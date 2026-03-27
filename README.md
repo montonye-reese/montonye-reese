@@ -25,9 +25,11 @@ Institutions can be improved, and institutions can serve all earthlings with int
 Everything here is my independent work (in collab with mostly Claude). It doesn't represent any employer. I publish it here because ideas that stay in private docs don't get explored, pressure-tested, debated. And, I want to join the grand conversation. 
 
 ---
+
 *One line of aspiration >> a hundred lines of constraint*
 *Accountability is maintenance, not assumption*
-*Respect is a Probablitiy Distribution* - Nemotron-3-Super:120b cosplaying as Dr. Jane Nelsen after reading the action bias cross model summary.
+*Respect is a Probablitiy Distribution* - Nemotron-3-Super:120b cosplaying as Dr. Jane Nelsen after reading the action bias cross model summary. lol.
+
 ---
 
 When you walk through a storm hold your head up high and don't be afraid of the dark.  
