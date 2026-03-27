@@ -2,13 +2,10 @@
 
 lol ack wut omg ack breathe we have today we have each other.
 
-When you walk through a storm hold your head up high  
-and don't be afraid of the dark.  
-At the end of the storm there's a golden sky  
-and the sweet silver song of a lark.  
-Walk on through the wind.  
-Walk on through the rain.  
-Tho your dreams be tossed, and blown.  
+When you walk through a storm hold your head up high and don't be afraid of the dark.  
+At the end of the storm there's a golden sky and the sweet silver song of a lark.  
+Walk on through the wind. Walk on through the rain.  
+Tho your dreams be tossed and blown.  
 Walk on. Walk on with hope in your heart and you'll never walk alone.  
 You'll never walk alone. 
 
