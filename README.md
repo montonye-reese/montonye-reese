@@ -34,4 +34,6 @@ Institutions can be improved, and institutions can serve all earthlings with int
 Everything here is my independent work. It doesn't represent any employer. I publish it here because ideas that stay in private docs don't get explored, pressure-tested, debated. And, I want to join the grand conversation.
 
 ---
-*Accountability is maintenance, not assumption.*
+*One line of aspiration >> a hundred lines of constraint*
+*Accountability is maintenance, not assumption*
+You'll Never Walk Alone - YNWA - Rogers & Hammerstein - covered by Gary and the Pacemakers - and regularly sung in Liverpoll and Glassgow football games. A recording can be hear at tail end of Pink Floyd's Fearless on the Meddle album. 
