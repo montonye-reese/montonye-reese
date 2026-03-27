@@ -26,8 +26,8 @@ Everything here is my independent work (in collab with mostly Claude). It doesn'
 
 ---
 
-*One line of aspiration >> a hundred lines of constraint*
-*Accountability is maintenance, not assumption*
+*One line of aspiration >> a hundred lines of constraint*  
+*Accountability is maintenance, not assumption*  
 *Respect is a Probablitiy Distribution* - Nemotron-3-Super:120b cosplaying as Dr. Jane Nelsen after reading the action bias cross model summary. lol.
 
 ---
