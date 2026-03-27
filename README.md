@@ -2,7 +2,7 @@
 
 lol ack wut omg ack breathe we have today we have each other. 
 
-when you walk through a storm hold your head up high. 
+when you walk through a storm hold your head up high. \n
 and don't be afraid of the dark.
 
 At the end of the storm there's a golden sky
