@@ -2,9 +2,7 @@
 
 lol ack wut omg ack breathe we have today we have each other. 
 
-when you walk through a storm hold your head up high. \n
-and don't be afraid of the dark.
-
+when you walk through a storm hold your head up high.and don't be afraid of the dark.
 At the end of the storm there's a golden sky
 and the sweet silver song of a lark. 
 Walk on through the wind. 
@@ -20,9 +18,9 @@ You'll never walk alone.
 
 ## What you'll find here
 
-* Model behavior — bias, alignment defaults, and how models interact with the humans they relate to
-* Institutional accountability ideas
-* AI governance architectures — trust frameworks, compute governance, deployment constraints
+* Model behavior stuff
+* Institutional accountability
+* AI governance architectures stuffs
 * Democratic resilience — structural analysis of what breaks and what it would take to build stronger
 * Poker strategy
 
