@@ -39,5 +39,5 @@ Tho your dreams be tossed and blown.
 Walk on. Walk on with hope in your heart and you'll never walk alone.  
 You'll never walk alone. 
 You'll Never Walk Alone - YNWA - Rogers & Hammerstein - covered by Gary and the Pacemakers  
-- regularly sung in Liverpoll and Glassgow football games.  
+- regularly sung in Liverpool and Glasgow football games.  
 - can hear stadium recording at tail end of Pink Floyd's Fearless on the Meddle album.
