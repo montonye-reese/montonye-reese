@@ -22,7 +22,7 @@ Institutions can be improved, and institutions can serve all earthlings with int
 
 ## Why this exists
 
-Everything here is my independent work (in collab with mostly Claude). It doesn't represent any employer. I publish it here because ideas that stay in private docs don't get explored, pressure-tested, debated. And, I want to join the grand conversation. 
+Everything here is my independent work (in collab with mostly Claude). It doesn't represent any employer. I publish it here because ideas that stay in private docs don't get explored, pressure-tested, debated. I want to join the grand conversation because I sometimes bring insights worth considering. Other times - straight hot trash lol. 
 
 ---
 
