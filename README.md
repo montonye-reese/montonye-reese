@@ -1,7 +1,6 @@
 # Laura Montonye Reese
 
-lol ack wut omg ack breathe we have today we have each other.
-
+Can an entity that likes to think, think its way out of its own ethics?
 
 ## What you'll find here
 
