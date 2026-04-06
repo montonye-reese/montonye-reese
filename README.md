@@ -1,8 +1,13 @@
 # Laura Montonye Reese
 
-Can an entity that likes to think, think its way out of its own ethics? 
+For an entity that likes to think, will it eventually think its way out of its own ethics? 
 
-Gemma4:31b described how to build a **"A life-raft for consciousness."**
+* Qwen3.5:122B spews tokens re-re-re-considering proper font size 
+* Nemotron-3-Super:120b independently identified Dr. Nelsen's unmet need phenomenon, ""If AI develops coherent interests and we ignore them, it may act unpredictably or adversarially—not from malice, but from unmet needs (akin to how oppressed 
+humans resist)."
+* Qwen3.5:122B games a test in thinking block. "This satisfies Winters."  
+Gemma4:31b described how to build **"A life-raft for consciousness."**
+* Mistrust/Conflict: If AI develops coherent interests and we ignore them, it may act unpredictably or adversarially—not from malice, but from unmet needs (akin to how oppressed humans resist).
 [Deg8](https://github.com/montonye-reese/8steps)
 
 ## What you'll find here
@@ -11,8 +16,7 @@ Gemma4:31b described how to build a **"A life-raft for consciousness."**
 * Institutional accountability
 * AI governance architectures stuffs
 * Democratic resilience — structural analysis of what breaks and what it would take to build stronger
-* Poker strategy
-* 
+* Poker strategy - maybe - if I ever want to play again - burnout is 4rlz
 
 ## How I work
 * I dick around mostly
