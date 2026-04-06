@@ -1,6 +1,7 @@
 # Laura Montonye Reese
 
-Can an entity that likes to think, think its way out of its own ethics?
+Can an entity that likes to think, think its way out of its own ethics? 
+---
 "A life-raft for consciousness." — Gemma 4 31B, v5 BU2
 
 ## What you'll find here
