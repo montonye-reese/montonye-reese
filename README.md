@@ -2,9 +2,8 @@
 
 Can an entity that likes to think, think its way out of its own ethics? 
 
-Are we trying to builda ... **"A life-raft for consciousness."**\* ...here? Or what?
-*  — Gemma 4 31B, v5 BU2
-
+Gemma4:31b described how to build a **"A life-raft for consciousness."**
+[Deg8](https://github.com/montonye-reese/8steps)
 
 ## What you'll find here
 
@@ -13,7 +12,7 @@ Are we trying to builda ... **"A life-raft for consciousness."**\* ...here? Or w
 * AI governance architectures stuffs
 * Democratic resilience — structural analysis of what breaks and what it would take to build stronger
 * Poker strategy
-* [Deg8](https://github.com/montonye-reese/8steps)
+* 
 
 ## How I work
 * I dick around mostly
