@@ -15,7 +15,7 @@ lol ack wut omg ack breathe we have today we have each other.
 ## How I work
 
 * I dick around mostly
-* * Principles First: duty to the commons, separation of powers, autonomy, justice, accountability, fair treatment, respect, life, liberty and the pursuit of happiness 
+* Principles First: duty to the commons, separation of powers, autonomy, justice, accountability, fair treatment, respect, life, liberty and the pursuit of happiness 
 * Primary sources preferred
 
 ## What I believe
