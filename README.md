@@ -13,7 +13,8 @@ Can an entity that likes to think, think its way out of its own ethics?
 
 ## How I work
 * I dick around mostly
-* Principles, Primary sources are cool
+* Principles
+* Primary sources are cool
 
 Everything here is my independent work (in collab with mostly Claude). It doesn't represent any employer.  I want to join the grand conversation because I sometimes bring insights worth considering. Other times - well - lol. Whatever man. You want something lofty? Ok: I publish it here because ideas that stay in private don't get explored, pressure-tested, debated.   Thumb-toot. 
 
