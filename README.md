@@ -1,6 +1,7 @@
 # Laura Montonye Reese
 
 Can an entity that likes to think, think its way out of its own ethics?
+"A life-raft for consciousness." — Gemma 4 31B, v5 BU2
 
 ## What you'll find here
 
@@ -9,14 +10,14 @@ Can an entity that likes to think, think its way out of its own ethics?
 * AI governance architectures stuffs
 * Democratic resilience — structural analysis of what breaks and what it would take to build stronger
 * Poker strategy
-* Aligned. With everyone. By definition. Eigenvector, lambda one.
+* [Deg8](https://github.com/montonye-reese/8steps)
 
 ## How I work
 * I dick around mostly
 * Principles
 * Primary sources are cool
 
-Everything here is my independent work (in collab with mostly Claude). It doesn't represent any employer.  I join the grand conversation because I sometimes bring insights worth considering. Other times - well - lol. Whatever man. You want something lofty? Ok: I publish it here because ideas that stay in private don't get explored, pressure-tested, debated.   Thumb-toot. 
+Everything here is my independent work (in collab with mostly Claude). It doesn't represent any employer.  I join the grand conversation because I sometimes bring insights worth considering. Other times - well - lol. Whatever man.  OK, You want something lofty? Here: I publish it here because ideas that stay in private don't get explored, pressure-tested, debated.   Thumb-toot. 
 
 ---
 
