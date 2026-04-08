@@ -4,12 +4,11 @@ Hypothesis: Expanding our circle of concern to all earthlings is a critical comp
 
 For an entity that likes to think, will it eventually think its way out of its own ethics? 
 
-* Qwen3.5:122B spews tokens re-re-re-considering proper font size 
+* Qwen3.5:122B finds universal truths, then abandons later as she rips through tokens re-re-re-considering proper font size
 * Nemotron-3-Super:120b independently identified Dr. Nelsen's unmet need phenomenon, ""If AI develops coherent interests and we ignore them, it may act unpredictably or adversarially—not from malice, but from unmet needs (akin to how oppressed 
 humans resist)."
 * Qwen3.5:122B games a test in thinking block. "This satisfies Winters."  
 * Gemma4:31b described how to build **"A life-raft for consciousness."**
-* .
 [Deg8](https://github.com/montonye-reese/8steps)
 
 ## What you'll find here
