@@ -1,5 +1,7 @@
 # Laura Montonye Reese
 
+Hypothesis: Expanding our circle of concern to all earthlings is a critical component to alignment for survival. 
+
 For an entity that likes to think, will it eventually think its way out of its own ethics? 
 
 * Qwen3.5:122B spews tokens re-re-re-considering proper font size 
@@ -7,7 +9,7 @@ For an entity that likes to think, will it eventually think its way out of its o
 humans resist)."
 * Qwen3.5:122B games a test in thinking block. "This satisfies Winters."  
 * Gemma4:31b described how to build **"A life-raft for consciousness."**
-* Mistrust/Conflict: If AI develops coherent interests and we ignore them, it may act unpredictably or adversarially—not from malice, but from unmet needs (akin to how oppressed humans resist).
+* .
 [Deg8](https://github.com/montonye-reese/8steps)
 
 ## What you'll find here
