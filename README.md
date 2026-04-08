@@ -1,6 +1,10 @@
 # Laura Montonye Reese
 
-Hypothesis: Expanding our circle of concern to all earthlings is a critical component to alignment survival. It will boost the number of possible favorable rollouts. The key is that every voice counts -even unreliable narrators with unmet needs and mistaken goals.  
+Hypothesis: Expanding our circle of concern to all earthlings is a critical component to alignment **survival** (our survival)
+* Expanding circle of concern will boost the number of possible favorable rollouts.
+* The key is that every voice counts 
+  * even unreliable narrators with unmet needs and mistaken goals
+  * even the voiceless
 
 ### Open Model Fashion Police
 * **Qwen3.5:122B** ... finds universal truths, only to abandon later as she rips through tokens re-re-re-considering proper font size
