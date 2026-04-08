@@ -16,16 +16,15 @@ Can an entity that likes to think, eventually think its way out of its own ethic
 
 * Model behavior stuff [action-bias](https://github.com/montonye-reese/action-bias) in preference tuned models
 * Harmless Helpful and [HHH-isitho](https://github.com/montonye-reese/model-guidelines/blob/main/beyond-hhh.md)?
-* Institutional accountability [FreshBuild]
-* AI governance architectures stuffs
-* Democratic resilience — structural analysis of what breaks and what it would take to build stronger
-* Poker strategy - maybe - if I ever want to play again - burnout is 4rlz
+* Institutional accountability [FreshBuild](https://github.com/montonye-reese/Fresh-Build)
+* AI governance architectures stuffs - like the Trustworthy AI Compute Consortium (Feb 2026) private repo - request access.
+* Poker strategy - maybe - if I ever want to play again - burnout atm
 
 ## How I work
 * Principles
 * Primary sources are cool
 
-Everything here is my independent work (in collab with mostly Claude). It doesn't represent any employer.  I join the grand conversation because I sometimes bring insights worth considering. Other times - well - lol. Whatever man.  OK, You want something lofty? Here: I publish it here because ideas that stay in private don't get explored, pressure-tested, debated.   Thumb-toot. 
+Everything here is my independent work (in collab with mostly Claude). It doesn't represent any employer.  I join the grand conversation because my voice is vital. So is yours. 
 
 ---
 
