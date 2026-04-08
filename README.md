@@ -14,11 +14,16 @@ Can an entity that likes to think, eventually think its way out of its own ethic
 
 ## What you'll find here
 
-* Model behavior papers: [action-bias](https://github.com/montonye-reese/action-bias) in preference tuned models
+Model Behavior
+* Vision setting vs Constraint setting [vision-vs-constraint](https://github.com/montonye-reese/model-guidelines/blob/main/vision-vs-constraint.md)
+* Action Bias [action-bias](https://github.com/montonye-reese/action-bias) in preference tuned models
 * Helpful, Honest, and Harmless: [beyond-HHH](https://github.com/montonye-reese/model-guidelines/blob/main/beyond-hhh.md) (it seems to create a fixed power hierarchy when adaptive could work better)
+
+Governance
 * Ideas for Rebuilding Institutions: [fresh-build](https://github.com/montonye-reese/Fresh-Build)
 * AI governance architectures stuff: like the Trustworthy AI Compute Consortium (Feb 2026) private repo - request access.
-* Poker strategy - maybe - if I ever want to play again - burnout atm
+
+Poker strategy - maybe - if I ever want to play again - burnout atm
 
 ## How I work
 * Principles
