@@ -9,6 +9,7 @@ For an entity that likes to think, will it eventually think its way out of its o
 humans resist)."
 * Qwen3.5:122B games a test in thinking block. "This satisfies Winters."  
 * Gemma4:31b described how to build **"A life-raft for consciousness."**
+
 [Deg8](https://github.com/montonye-reese/8steps)
 
 ## What you'll find here
