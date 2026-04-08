@@ -15,8 +15,8 @@ Can an entity that likes to think, eventually think its way out of its own ethic
 ## What you'll find here
 
 * Model behavior stuff [action-bias](https://github.com/montonye-reese/action-bias) in preference tuned models
-* Harmless Helpful and [HHH-isitho?](https://github.com/montonye-reese/model-guidelines/blob/main/beyond-hhh.md)
-* Institutional accountability
+* Harmless Helpful and [HHH-isitho](https://github.com/montonye-reese/model-guidelines/blob/main/beyond-hhh.md)?
+* Institutional accountability [FreshBuild]
 * AI governance architectures stuffs
 * Democratic resilience — structural analysis of what breaks and what it would take to build stronger
 * Poker strategy - maybe - if I ever want to play again - burnout is 4rlz
