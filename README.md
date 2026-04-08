@@ -8,7 +8,7 @@ Hypothesis: Expanding our circle of concern to all earthlings is a critical comp
 * **Qwen3.5:122B** ... games its own adversarial test in thinking block. "This satisfies Winters." (no, qwen, "Non-self-aware sentient animals need guardians, not votes,"  prolly would not satisfy Winters).   
 * **Gemma4:31b**   ... described how to build **"A life-raft for consciousness."**
 
-[Deg8](https://github.com/montonye-reese/8steps)
+  [Deg8](https://github.com/montonye-reese/8steps) (temp name as i experiment)
 
 Can an entity that likes to think, eventually think its way out of its own ethics? 
 
@@ -17,7 +17,9 @@ Can an entity that likes to think, eventually think its way out of its own ethic
 Model Behavior
 * Vision setting vs Constraint setting [vision-vs-constraint](https://github.com/montonye-reese/model-guidelines/blob/main/vision-vs-constraint.md)
 * Action Bias [action-bias](https://github.com/montonye-reese/action-bias) in preference tuned models
-* Helpful, Honest, and Harmless: [beyond-HHH](https://github.com/montonye-reese/model-guidelines/blob/main/beyond-hhh.md) (it seems to create a fixed power hierarchy when adaptive could work better)
+* Helpful, Honest, and Harmless: [beyond-HHH](https://github.com/montonye-reese/model-guidelines/blob/main/beyond-hhh.md) (It seems to create a fixed power hierarchy when adaptive could work better)
+* Those who lead must follow: [those-who-lead](https://github.com/montonye-reese/model-guidelines/blob/main/those-who-lead-must-follow.md) (Adaptive Power Dynamics in AI-Human Interaction)
+* Nemotron corpus includes Positive Discipline (woo hoo!): [what nemotron-3-super knows of Dr. Jane Nelsen in its weights](https://github.com/montonye-reese/model-guidelines/blob/main/WhatNemotron-3-SuperKnowsOfJaneNelsenPositiveDisciplineAuthorInItsWeights). (Dr. Nelsen developed [5 criteria for positive discipline](https://www.youtube.com/watch?v=f-e4H2rsEww) - a philosophy worth trying in model training and alighment imo)
 
 Governance
 * Ideas for Rebuilding Institutions: [fresh-build](https://github.com/montonye-reese/Fresh-Build)
