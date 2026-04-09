@@ -1,4 +1,4 @@
-### Current Project: Deg8 aka "the gauntlet" - idk the name yet; i'm exploring
+### Current Project: The Gauntlet (8 Degrees of Consideration)
 Hypothesis: Expanding the circle of concern to all earthlings is a critical component to alignment and our survival.  
 * The key is that every voice counts... even
   * unreliable narrators
