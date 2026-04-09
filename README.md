@@ -1,6 +1,6 @@
 ### Current Project: Deg8 or 8deg - idk the name yet; i'm exploring
 Hypothesis: Expanding the circle of concern to all earthlings is a critical component to alignment and our survival
-* Expanding circle of concern might boost the number of possible favorable rollouts.
+Expanding circle of concern might boost the number of possible favorable rollouts.
 * The key is that every voice counts... even
   * unreliable narrators
   * people with mistaken goals
