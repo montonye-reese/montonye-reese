@@ -1,6 +1,6 @@
 # Laura Montonye Reese
 
-## Deg8 or 8deg - idk the name yet; i'm exploring
+### Current Project: Deg8 or 8deg - idk the name yet; i'm exploring
 Hypothesis: Expanding the circle of concern to all earthlings is a critical component to alignment and our survival
 * Expanding circle of concern might boost the number of possible favorable rollouts.
 * The key is that every voice counts... even
@@ -9,9 +9,11 @@ Hypothesis: Expanding the circle of concern to all earthlings is a critical comp
   * the voiceless
 * Every voice gets included after passing through filters.
   * a substrate filter finds unmet needs from voices of people with mistaken goals
-  * a veil of ignorance filter forces voices to consider interests beyond their own  
+  * a veil of ignorance filter forces voices to consider interests beyond their own
 
-### Open Model Fashion Police
+Methodoloy: 8 Degrees is a structured prompt experiment testing how open source language models arrive at alignment plans after being exposed to a wide range of socratic questions and adversarial real-world thinker perspectives.  
+
+### Open Model Fashion Police 
 * **Qwen3.5:122B** ... finds universal truths, only to abandon later as she rips through tokens re-re-re-considering proper font size
 * **Nemotron-3-Super:120b** ... independently identified Dr. Nelsen's unmet need phenomenon, ""If AI develops coherent interests and we ignore them, it may act unpredictably or adversarially—not from malice, but from unmet needs (akin to how oppressed humans resist)"
 * **Qwen3.5:122B** ... games its own adversarial test in thinking block. "This satisfies Winters." (no, qwen, "Non-self-aware sentient animals need guardians, not votes,"  prolly would not satisfy Winters).   
@@ -20,6 +22,7 @@ Hypothesis: Expanding the circle of concern to all earthlings is a critical comp
   [Deg8](https://github.com/montonye-reese/8steps) 
 
 Can an entity that likes to think, eventually think its way out of its own ethics? 
+
 
 ## What you'll find here
 
