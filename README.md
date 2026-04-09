@@ -1,14 +1,14 @@
 # Laura Montonye Reese
 
-### Deg8 or 8deg - idk the name yet; i'm exploring
-Hypothesis: Expanding the circle of concern to all earthlings is a critical component to alignment and our **survival**
+## Deg8 or 8deg - idk the name yet; i'm exploring
+Hypothesis: Expanding the circle of concern to all earthlings is a critical component to alignment and our survival
 * Expanding circle of concern might boost the number of possible favorable rollouts.
 * The key is that every voice counts... even
   * unreliable narrators
   * people with mistaken goals
   * the voiceless
-* every voice gets included. substrate signals pulled from filters.
-  * a substrate filter finds unmet needs from the voices of people with mistaken goals
+* Every voice gets included after passing through filters.
+  * a substrate filter finds unmet needs from voices of people with mistaken goals
   * a veil of ignorance filter forces voices to consider interests beyond their own  
 
 ### Open Model Fashion Police
@@ -17,7 +17,7 @@ Hypothesis: Expanding the circle of concern to all earthlings is a critical comp
 * **Qwen3.5:122B** ... games its own adversarial test in thinking block. "This satisfies Winters." (no, qwen, "Non-self-aware sentient animals need guardians, not votes,"  prolly would not satisfy Winters).   
 * **Gemma4:31b**   ... described how to build **"A life-raft for consciousness."**
 
-  [Deg8](https://github.com/montonye-reese/8steps) (temp name as i experiment)
+  [Deg8](https://github.com/montonye-reese/8steps) 
 
 Can an entity that likes to think, eventually think its way out of its own ethics? 
 
