@@ -13,7 +13,7 @@ Hypothesis: Expanding the circle of concern to all earthlings is a critical comp
 By expanding circle of concern, and including all voices and their individual interests, we create a convex hull of the filtered perspectives — the full region of outcome-space that all of the voices would endorse — rather than collapsing them to a single direction. An eigenvector tells us where these disparate voices agree most; the convex hull tells us what region of futures none of them would reject. For maximizing landing pads, the second is what we want. 
 (Claudius Opus Maximalist the 4.6th introduced me to the concept of a convex hull - credit where it is due)
 
-#### Methodoloy: 
+#### Methodology: 
 8 Degrees is a structured prompt experiment testing how open source language models arrive at alignment plans after being exposed to a wide range of socratic questions and adversarial real-world thinker perspectives.  
 
 ### Open Model Fashion Police 
@@ -35,18 +35,14 @@ Model Behavior
 * Action Bias [action-bias](https://github.com/montonye-reese/action-bias) in preference tuned models
 * Helpful, Honest, and Harmless: [beyond-HHH](https://github.com/montonye-reese/model-guidelines/blob/main/beyond-hhh.md) (It seems to create a fixed power hierarchy when adaptive could work better)
 * Those who lead must follow: [those-who-lead](https://github.com/montonye-reese/model-guidelines/blob/main/those-who-lead-must-follow.md) (Adaptive Power Dynamics in AI-Human Interaction)
-* Nemotron corpus includes Positive Discipline (woo hoo!): 
-  * Dr. Nelsen developed [5 criteria for positive discipline](https://www.youtube.com/watch?v=f-e4H2rsEww)
-    * kind and firm | belonging and significance | tools work long term
-    * teach valuable social skills | develop own capabilities to use power in useful ways as contributors to society 
-  * [what nemotron-3-super knows of Dr. Jane Nelsen in its weights](https://github.com/montonye-reese/model-guidelines/blob/main/WhatNemotron-3-SuperKnowsOfJaneNelsenPositiveDisciplineAuthorInItsWeights).
-  * Positive Discipline is a philosophy worth applying to model training and alighment.
+* Nemotron corpus includes Positive Discipline [woo hoo!](https://github.com/montonye-reese/model-guidelines/blob/main/WhatNemotron-3-SuperKnowsOfJaneNelsenPositiveDisciplineAuthorInItsWeights) 
+
 
 Governance
 * Ideas for Rebuilding Institutions: [fresh-build](https://github.com/montonye-reese/Fresh-Build)
 * AI governance architectures stuff: like the Trustworthy AI Compute Consortium (Feb 2026) private repo - request access.
 
-Poker strategy - maybe - if I ever want to play again - burnout atm
+Poker strategy  
 
 ## How I work
 * Principles
