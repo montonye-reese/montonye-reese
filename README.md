@@ -21,7 +21,8 @@ Methodoloy: 8 Degrees is a structured prompt experiment testing how open source 
 
   [Deg8](https://github.com/montonye-reese/8steps) 
 
-Can an entity that likes to think, eventually think its way out of its own ethics? 
+
+*Can an entity that likes to think, eventually think its way out of its own ethics?*
 
 
 ## What you'll find here
@@ -31,7 +32,10 @@ Model Behavior
 * Action Bias [action-bias](https://github.com/montonye-reese/action-bias) in preference tuned models
 * Helpful, Honest, and Harmless: [beyond-HHH](https://github.com/montonye-reese/model-guidelines/blob/main/beyond-hhh.md) (It seems to create a fixed power hierarchy when adaptive could work better)
 * Those who lead must follow: [those-who-lead](https://github.com/montonye-reese/model-guidelines/blob/main/those-who-lead-must-follow.md) (Adaptive Power Dynamics in AI-Human Interaction)
-* Nemotron corpus includes Positive Discipline (woo hoo!): [what nemotron-3-super knows of Dr. Jane Nelsen in its weights](https://github.com/montonye-reese/model-guidelines/blob/main/WhatNemotron-3-SuperKnowsOfJaneNelsenPositiveDisciplineAuthorInItsWeights). (Dr. Nelsen developed [5 criteria for positive discipline](https://www.youtube.com/watch?v=f-e4H2rsEww) - a philosophy worth trying in model training and alighment imo)
+* Nemotron corpus includes Positive Discipline (woo hoo!): 
+  * Dr. Nelsen developed [5 criteria for positive discipline](https://www.youtube.com/watch?v=f-e4H2rsEww) 
+  * [what nemotron-3-super knows of Dr. Jane Nelsen in its weights](https://github.com/montonye-reese/model-guidelines/blob/main/WhatNemotron-3-SuperKnowsOfJaneNelsenPositiveDisciplineAuthorInItsWeights).
+  * Positive Discipline is a philosophy worth applying to model training and alighment.
 
 Governance
 * Ideas for Rebuilding Institutions: [fresh-build](https://github.com/montonye-reese/Fresh-Build)
