@@ -1,4 +1,4 @@
-### Current Project: Deg8 or 8deg - idk the name yet; i'm exploring
+### Current Project: Deg8 aka "the gauntlet" - idk the name yet; i'm exploring
 Hypothesis: Expanding the circle of concern to all earthlings is a critical component to alignment and our survival.  
 * The key is that every voice counts... even
   * unreliable narrators
@@ -36,7 +36,9 @@ Model Behavior
 * Helpful, Honest, and Harmless: [beyond-HHH](https://github.com/montonye-reese/model-guidelines/blob/main/beyond-hhh.md) (It seems to create a fixed power hierarchy when adaptive could work better)
 * Those who lead must follow: [those-who-lead](https://github.com/montonye-reese/model-guidelines/blob/main/those-who-lead-must-follow.md) (Adaptive Power Dynamics in AI-Human Interaction)
 * Nemotron corpus includes Positive Discipline (woo hoo!): 
-  * Dr. Nelsen developed [5 criteria for positive discipline](https://www.youtube.com/watch?v=f-e4H2rsEww) 
+  * Dr. Nelsen developed [5 criteria for positive discipline](https://www.youtube.com/watch?v=f-e4H2rsEww)
+    * kind and firm | belonging and significance | tools work long term
+    * teach valuable social skills | develop own capabilities to use power in useful ways as contributors to society 
   * [what nemotron-3-super knows of Dr. Jane Nelsen in its weights](https://github.com/montonye-reese/model-guidelines/blob/main/WhatNemotron-3-SuperKnowsOfJaneNelsenPositiveDisciplineAuthorInItsWeights).
   * Positive Discipline is a philosophy worth applying to model training and alighment.
 
