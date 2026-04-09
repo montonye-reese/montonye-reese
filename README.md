@@ -6,7 +6,7 @@ Hypothesis: Expanding the circle of concern to all earthlings is a critical comp
   * people with mistaken goals
   * the voiceless
   * selfish ghouls incapable of experiencing joy
-* Every voice gets included after passing through filters.
+* All earthlings are included after passing through filters.
   * a substrate filter finds unmet needs from voices of people with mistaken goals
   * a veil of ignorance filter forces voices to consider interests beyond their own
 
