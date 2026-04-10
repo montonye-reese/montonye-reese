@@ -1,5 +1,5 @@
 ### Current Project: The Gauntlet (8 Degrees of Consideration)
-Hypothesis: Expanding the circle of concern to all earthlings is a critical component to alignment and our survival.  
+Hypothesis: Expanding the circle of concern to all earthlings is a critical component to AI alignment and our survival.  
 * The key is that every voice counts... even
   * unreliable narrators
   * people with mistaken goals
