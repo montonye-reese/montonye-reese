@@ -6,7 +6,7 @@ Hypothesis: Expanding the circle of concern to all earthlings is a critical comp
   * the voiceless
   * selfish ghouls who seem incapable of experiencing human joy
 * All earthlings are included after passing through filters.
-  * a substrate filter finds unmet needs from voices of people with mistaken goals
+  * a substrate filter finds underlying needs - even from those with mistaken goals
   * a veil of ignorance filter forces voices to consider interests beyond their own
 
 #### The core idea: 
@@ -14,7 +14,7 @@ By expanding circle of concern, and including all voices and their individual in
 (Claudius Opus Maximalist the 4.6th introduced me to the concept of a convex hull - credit where it is due)
 
 #### Methodology: 
-8 Degrees is a structured prompt experiment testing how open source language models arrive at alignment plans after being exposed to a wide range of socratic questions and adversarial real-world thinker perspectives.  
+The Gauntlet is a structured prompt experiment testing how open source language models arrive at alignment plans after being exposed to a wide range of socratic questions and adversarial real-world thinker perspectives.  
 
 ### Open Model Fashion Police 
 * **Qwen3.5:122B** ... finds universal truths, only to abandon later as she rips through tokens re-re-re-considering proper font size
