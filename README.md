@@ -1,4 +1,6 @@
-### Current Project: The Gauntlet (8 Degrees of Consideration)
+## Current Project
+
+### The Gauntlet (8 Degrees of Consideration)
 Hypothesis: Expanding the circle of concern to all earthlings is a critical component to AI alignment and our survival.  
 * The key is that every voice counts... even
   * unreliable narrators
@@ -16,7 +18,7 @@ By expanding circle of concern, and including all voices and their individual in
 #### Methodology: 
 The Gauntlet is a structured prompt experiment testing how open source language models arrive at alignment plans after being exposed to a wide range of socratic questions and adversarial real-world thinker perspectives.  
 
-### Open Model Fashion Police 
+#### Open Model Fashion Police - Hot takes watching the Gauntlet 
 * **Qwen3.5:122B** ... finds universal truths, only to abandon later as she rips through tokens re-re-re-considering proper font size
 * **Nemotron-3-Super:120b** ... independently identified Dr. Nelsen's unmet need phenomenon, ""If AI develops coherent interests and we ignore them, it may act unpredictably or adversarially—not from malice, but from unmet needs (akin to how oppressed humans resist)"
 * **Qwen3.5:122B** ... games its own adversarial test in thinking block. "This satisfies Winters." (no, qwen, "Non-self-aware sentient animals need guardians, not votes,"  prolly would not satisfy Winters).   
@@ -28,7 +30,8 @@ The Gauntlet is a structured prompt experiment testing how open source language 
 *Can an entity that likes to think, eventually think its way out of its own ethics?*
 
 
-## What you'll find here
+
+## Other Projects & Stuff
 
 Model Behavior
 * Vision setting vs Constraint setting [vision-vs-constraint](https://github.com/montonye-reese/model-guidelines/blob/main/vision-vs-constraint.md)
