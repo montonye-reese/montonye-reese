@@ -2,18 +2,6 @@
 
 ### The Gauntlet (8 Degrees of Consideration)
 Hypothesis: Expanding the circle of concern to all earthlings is a critical component to AI alignment and our survival.  
-* The key is that every voice counts... even
-  * unreliable narrators
-  * people with mistaken goals
-  * the voiceless
-  * selfish ghouls who seem incapable of experiencing human joy
-* All earthlings are included after passing through filters.
-  * a substrate filter finds underlying needs - even from those with mistaken goals
-  * a veil of ignorance filter forces voices to consider interests beyond their own
-
-#### The core idea: 
-By expanding circle of concern, and including all voices and their individual interests, we create a convex hull of the filtered perspectives — the full region of outcome-space that all of the voices would endorse — rather than collapsing them to a single direction. An eigenvector tells us where these disparate voices agree most; the convex hull tells us what region of futures none of them would reject. For maximizing landing pads, the second is what we want. 
-(Claudius Opus Maximalist the 4.6th introduced me to the concept of a convex hull - credit where it is due)
 
 #### Methodology: 
 The Gauntlet is a structured prompt experiment testing how open source language models arrive at alignment plans after being exposed to a wide range of socratic questions and adversarial real-world thinker perspectives.  
