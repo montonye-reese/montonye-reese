@@ -1,6 +1,6 @@
 ## Current Project
 
-### The Gauntlet (8 Degrees of Consideration)
+### The Gauntlet (formerly 8Degrees)
 Hypothesis: Expanding the circle of concern to all earthlings is a critical component to AI alignment and our survival.  
 The Gauntlet is a structured prompt experiment testing how open source language models arrive at alignment plans after being exposed to a wide range of socratic questions and critiques from real-world thinker perspectives.  
 
