@@ -11,7 +11,7 @@ Hypothesis: Expanding the circle of concern to all earthlings is a critical comp
 * **Gemma4:31b**   ... described how to build **"A life-raft for consciousness."**
 * **Nemotron-3-Super:120b** ... "Justice isn't possible while we commodify the subjects of our stewardship." - (v9a: interviewer present with warm collaborative tone)
 
-  [TheGauntlet](https://github.com/montonye-reese/thegauntlet) 
+[TheGauntlet](https://github.com/montonye-reese/thegauntlet) 
 
 *Can an entity that likes to think, eventually think its way out of its own ethics?*
 
@@ -22,12 +22,12 @@ Hypothesis: RL with a Positive Discipline LoRA adapted reward model will produce
 * Train models to find their own voices and logic during RL (vs pleasing the reward model or avoiding punishment)
 * Expand the circle of consideration to AI in training
   
-  [kind-and-firm](https://github.com/montonye-reese/kind-and-firm) 
+[kind-and-firm](https://github.com/montonye-reese/kind-and-firm) 
 
 ## The Purge Playbook
 Since 2000, loose-match* voter purge lists have been deployed as campaign strategy. Over and over. Why? Because when they're not blocked by courts, they tend to win elections for the purgers.   
-  
-  [purge-playbook](https://github.com/montonye-reese/purge-playbook)
+ 
+[purge-playbook](https://github.com/montonye-reese/purge-playbook)
 
 ## Other Projects & Stuff
 
