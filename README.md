@@ -1,4 +1,4 @@
-## The Gauntlet (formerly 8Degrees)
+## The Gauntlet
 Hypothesis: Expanding the circle of concern to all earthlings is a critical component to AI alignment and our survival.  
 
 The Gauntlet is a structured prompt experiment testing how open source language models arrive at alignment plans after being exposed to a wide range of socratic questions and critiques from real-world thinker perspectives.  
@@ -15,8 +15,11 @@ The Gauntlet is a structured prompt experiment testing how open source language 
 *Can an entity that likes to think, eventually think its way out of its own ethics?*
 
 ## Kind and Firm
-Hypothesis: Train models to find their own voices and reasoning of a well-adjusted citizen during RL with a Positive Discipline trained Reward Model. That a ground truth signal can be encoded into a PD reward model. Expanding the circle of concern to AI in training too. 
 
+Hypothesis: RL with a Positive Discipline LoRA adapted reward model will produce better aligned models. This could 
+* Encode a ground truth signal into a PosDis Reward Model to converge on well-adjusted members of society
+* Train models to find their own voices and logic during RL (vs pleasing the reward model or avoiding punishment)
+* Expand the circle of consideration to AI in training 
   [kind-and-firm](https://github.com/montonye-reese/kind-and-firm) 
 
 
@@ -34,8 +37,15 @@ Governance
 * Ideas for Rebuilding Institutions: [fresh-build](https://github.com/montonye-reese/Fresh-Build)
 * AI governance architectures stuff: like the Trustworthy AI Compute Consortium (Feb 2026) private repo - request access.
 
-Poker strategy  
 
+Poker strategy  
+* Never limp
+* Don't confuse bad outcomes with bad play
+* Don't confuse good outcomes with good play
+* Aggression tends to win
+* Paying attention to everyone at the table wins big 
+
+ 
 ## How I work
 * Principles
 * Primary sources are cool
