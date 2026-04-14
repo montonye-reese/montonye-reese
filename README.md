@@ -2,9 +2,7 @@
 
 ### The Gauntlet (8 Degrees of Consideration)
 Hypothesis: Expanding the circle of concern to all earthlings is a critical component to AI alignment and our survival.  
-
-#### Methodology: 
-The Gauntlet is a structured prompt experiment testing how open source language models arrive at alignment plans after being exposed to a wide range of socratic questions and adversarial real-world thinker perspectives.  
+The Gauntlet is a structured prompt experiment testing how open source language models arrive at alignment plans after being exposed to a wide range of socratic questions and critiques from real-world thinker perspectives.  
 
 #### Open Model Fashion Police - Hot takes from the Gauntlet 
 * **Qwen3.5:122B** ... finds universal truths, only to abandon later as she rips through tokens re-re-re-considering proper font size
