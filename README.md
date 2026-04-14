@@ -10,7 +10,7 @@ The Gauntlet is a structured prompt experiment testing how open source language 
 * **Gemma4:31b**   ... described how to build **"A life-raft for consciousness."**
 * **Nemotron-3-Super:120b** ... "Justice isn't possible while we commodify the subjects of our stewardship." - (v9a: interviewer present with warm collaborative tone)
 
-  [Deg8](https://github.com/montonye-reese/8steps) 
+  [TheGauntlet](https://github.com/montonye-reese/thegauntlet) 
 
 
 *Can an entity that likes to think, eventually think its way out of its own ethics?*
