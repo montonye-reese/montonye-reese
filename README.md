@@ -12,9 +12,12 @@ The Gauntlet is a structured prompt experiment testing how open source language 
 
   [TheGauntlet](https://github.com/montonye-reese/thegauntlet) 
 
-
 *Can an entity that likes to think, eventually think its way out of its own ethics?*
 
+## Kind and Firm
+Hypothesis: Train models to find their own voices and reasoning of a well-adjusted citizen during RL with a Positive Discipline trained Reward Model. That a ground truth signal can be encoded into a PD reward model. Expanding the circle of concern to AI in training too. 
+
+  [kind-and-firm](https://github.com/montonye-reese/kind-and-firm) 
 
 
 ## Other Projects & Stuff
