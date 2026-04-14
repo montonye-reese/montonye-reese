@@ -44,8 +44,8 @@ Since 2000, loose-match* voter purge lists have been deployed as campaign strate
 
 #### Poker Strategy  
 * Never Limp
-* Don't confuse all bad outcomes with bad play
-* Don't confuse all good outcomes with good play
+* Don't confuse a bad outcome with bad play
+* Don't confuse a good outcome with good play
 * Aggression tends to win
 * Paying attention to everyone at the table can win big 
 
