@@ -40,15 +40,10 @@ Governance
 
 Poker strategy  
 * Never limp
-* Don't confuse bad outcomes with bad play
-* Don't confuse good outcomes with good play
+* Don't confuse all bad outcomes with bad play
+* Don't confuse all good outcomes with good play
 * Aggression tends to win
 * Paying attention to everyone at the table wins big 
-
- 
-## How I work
-* Principles
-* Primary sources are cool
 
 Everything here is my independent work (in collab with mostly Claude). It doesn't represent any employer.  I join the grand conversation because my voice is vital. So is yours. 
 
