@@ -47,7 +47,7 @@ Since 2000, loose-match* voter purge lists have been deployed as campaign strate
 * Don't confuse all bad outcomes with bad play
 * Don't confuse all good outcomes with good play
 * Aggression tends to win
-* Paying attention to everyone at the table wins big 
+* Paying attention to everyone at the table can win big 
 
 Everything here is my independent work (in collab with mostly Claude). It doesn't represent any employer.  I join the grand conversation because my voice is vital. So is yours. 
 
