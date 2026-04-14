@@ -31,7 +31,7 @@ Since 2000, loose-match* voter purge lists have been deployed as campaign strate
 
 ## Other Projects & Stuff
 
-#### Model Behavior
+#### [Model Behavior](https://github.com/montonye-reese/model-behavior)
 * Vision setting vs Constraint setting [vision-vs-constraint](https://github.com/montonye-reese/model-guidelines/blob/main/vision-vs-constraint.md)
 * Action Bias [action-bias](https://github.com/montonye-reese/action-bias) in preference tuned models
 * Helpful, Honest, and Harmless: [beyond-HHH](https://github.com/montonye-reese/model-guidelines/blob/main/beyond-hhh.md) (It seems to create a fixed power hierarchy when adaptive could work better)
