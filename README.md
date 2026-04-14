@@ -26,26 +26,24 @@ Hypothesis: RL with a Positive Discipline LoRA adapted reward model will produce
 
 ## The Purge Playbook
 Since 2000, loose-match* voter purge lists have been deployed as campaign strategy. Over and over. Why? Because when they're not blocked by courts, they tend to win elections for the purgers.   
-
+  
   [purge-playbook](https://github.com/montonye-reese/purge-playbook)
 
 ## Other Projects & Stuff
 
-Model Behavior
+#### Model Behavior
 * Vision setting vs Constraint setting [vision-vs-constraint](https://github.com/montonye-reese/model-guidelines/blob/main/vision-vs-constraint.md)
 * Action Bias [action-bias](https://github.com/montonye-reese/action-bias) in preference tuned models
 * Helpful, Honest, and Harmless: [beyond-HHH](https://github.com/montonye-reese/model-guidelines/blob/main/beyond-hhh.md) (It seems to create a fixed power hierarchy when adaptive could work better)
 * Those who lead must follow: [those-who-lead](https://github.com/montonye-reese/model-guidelines/blob/main/those-who-lead-must-follow.md) (Adaptive Power Dynamics in AI-Human Interaction)
 * Nemotron corpus includes Positive Discipline [woo hoo!](https://github.com/montonye-reese/model-guidelines/blob/main/WhatNemotron-3-SuperKnowsOfJaneNelsenPositiveDisciplineAuthorInItsWeights) 
 
-
-Governance
+#### Governance
 * Ideas for Rebuilding Institutions: [fresh-build](https://github.com/montonye-reese/Fresh-Build)
 * AI governance architectures stuff: like the Trustworthy AI Compute Consortium (Feb 2026) private repo - request access.
 
-
-Poker strategy  
-* Never limp
+#### Poker Strategy  
+* Never Limp
 * Don't confuse all bad outcomes with bad play
 * Don't confuse all good outcomes with good play
 * Aggression tends to win
