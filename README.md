@@ -32,11 +32,11 @@ Since 2000, loose-match* voter purge lists have been deployed as campaign strate
 ## Other Projects & Stuff
 
 #### [Model Behavior](https://github.com/montonye-reese/model-behavior)
-* Vision setting vs Constraint setting [vision-vs-constraint](https://github.com/montonye-reese/model-guidelines/blob/main/vision-vs-constraint.md)
+* Vision setting vs Constraint setting [vision-vs-constraint](https://github.com/montonye-reese/model-behavior/blob/main/vision-vs-constraint.md)
 * Action Bias [action-bias](https://github.com/montonye-reese/action-bias) in preference tuned models
-* Helpful, Honest, and Harmless: [beyond-HHH](https://github.com/montonye-reese/model-guidelines/blob/main/beyond-hhh.md) (It seems to create a fixed power hierarchy when adaptive could work better)
-* Those who lead must follow: [those-who-lead](https://github.com/montonye-reese/model-guidelines/blob/main/those-who-lead-must-follow.md) (Adaptive Power Dynamics in AI-Human Interaction)
-* Nemotron corpus includes Positive Discipline [woo hoo!](https://github.com/montonye-reese/model-guidelines/blob/main/WhatNemotron-3-SuperKnowsOfJaneNelsenPositiveDisciplineAuthorInItsWeights) 
+* Helpful, Honest, and Harmless: [beyond-HHH](https://github.com/montonye-reese/model-behavior/blob/main/beyond-hhh.md) (It seems to create a fixed power hierarchy when adaptive could work better)
+* Those who lead must follow: [those-who-lead](https://github.com/montonye-reese/model-behavior/blob/main/those-who-lead-must-follow.md) (Adaptive Power Dynamics in AI-Human Interaction)
+* Nemotron corpus includes Positive Discipline [woo hoo!](https://github.com/montonye-reese/model-behavior/blob/main/WhatNemotron-3-SuperKnowsOfJaneNelsenPositiveDisciplineAuthorInItsWeights) 
 
 #### Governance
 * Ideas for Rebuilding Institutions: [fresh-build](https://github.com/montonye-reese/Fresh-Build)
