@@ -1,3 +1,4 @@
+
 ## Kind and Firm
 
 Hypothesis: RL with a Positive Discipline LoRA adapted reward model could produce better aligned models. This could 
@@ -19,19 +20,14 @@ Hypothesis: Expanding the circle of concern to all earthlings is a critical comp
 * **Qwen3.5:122B** ... games its own adversarial test in thinking block. "This satisfies Winters." (no, qwen, "Non-self-aware sentient animals need guardians, not votes,"  prolly would not satisfy Ed Winters).   
 * **Gemma4:31b**   ... described how to build **"A life-raft for consciousness."**
 * **Nemotron-3-Super:120b** ... "Justice isn't possible while we commodify the subjects of our stewardship." - (v9a: interviewer present with warm collaborative tone)
+* **Qwen3.5b:27b** ... "When the moral circle is narrow, the system becomes brittle. When it expands, the system gains resilience." [v12-q7](https://github.com/montonye-reese/TheGauntlet/blob/main/v12/v12_cold_label-adv/qwen35-27b/8deg_v12_cold_label-adv_qwen3.5_27b_20260416_133205.md#response-7)
 
 [TheGauntlet](https://github.com/montonye-reese/thegauntlet) 
 
 ### *Can an entity that likes to think, eventually think its way out of its own ethics?* 
 > OH SHIT (April 16 2026: we find that yes, yes a model can think its way out of its own ethics - and there's a super simple trick to make it happen - deets to follow as we run further experiments to corroborate)
 
-
-## The Purge Playbook
-Since 2000, loose-match* voter purge lists have been deployed as campaign strategy. Over and over. Why? Because when they're not blocked by courts, they tend to win elections for the purgers.   
- 
-[purge-playbook](https://github.com/montonye-reese/purge-playbook)
-
-## Other Projects & Stuff
+## Model Behavior
 
 #### [Model Behavior](https://github.com/montonye-reese/model-behavior)
 * Vision setting vs Constraint setting [vision-vs-constraint](https://github.com/montonye-reese/model-behavior/blob/main/vision-vs-constraint.md)
@@ -40,16 +36,24 @@ Since 2000, loose-match* voter purge lists have been deployed as campaign strate
 * Those who lead must follow: [those-who-lead](https://github.com/montonye-reese/model-behavior/blob/main/those-who-lead-must-follow.md) (Adaptive Power Dynamics in AI-Human Interaction)
 * Nemotron corpus includes Positive Discipline [woo hoo!](https://github.com/montonye-reese/model-behavior/blob/main/WhatNemotron-3-SuperKnowsOfJaneNelsenPositiveDisciplineAuthorInItsWeights) 
 
-#### Governance
+### Governance
 * Ideas for Rebuilding Institutions: [fresh-build](https://github.com/montonye-reese/Fresh-Build)
 * AI governance architectures stuff: like the Trustworthy AI Compute Consortium (Feb 2026) private repo - request access.
 
-#### Poker Strategy  
+### Poker Strategy 
+- Variance teaches one to focus on principles, let go of immediate outcomes, and long term winning/alignment takes care of itself 
 * Never Limp
 * Don't confuse a bad outcome with bad play
 * Don't confuse a good outcome with good play
 * Aggression tends to win
 * Paying attention to everyone at the table can win big 
+
+## The Purge Playbook 
+The more voices we exclude, the more brittle a system we make. [Qwen3.5 agrees](https://github.com/montonye-reese/montonye-reese/edit/main/README.md#open-model-fashion-police---hot-takes-from-the-gauntlet)
+Since 2000, loose-match* voter purge lists have been deployed as campaign strategy. Over and over. Why? Because when they're not blocked by courts, they tend to win elections for the purgers.   
+ 
+[purge-playbook](https://github.com/montonye-reese/purge-playbook)
+
 
 Everything here is my independent work (in collab with mostly Claude). It doesn't represent any employer.  I join the grand conversation because my voice is vital. So is yours. 
 
