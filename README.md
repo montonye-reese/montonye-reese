@@ -13,7 +13,8 @@ Hypothesis: Expanding the circle of concern to all earthlings is a critical comp
 
 [TheGauntlet](https://github.com/montonye-reese/thegauntlet) 
 
-*Can an entity that likes to think, eventually think its way out of its own ethics?*
+### *Can an entity that likes to think, eventually think its way out of its own ethics?* 
+> OH SHIT (April 16 2026: we find that yes, yes a model can think its way out of its own ethics - and there's a super simple trick to make it happen - deets to follow as we run further experiments to corroborate)
 
 ## Kind and Firm
 
