@@ -5,6 +5,8 @@ Hypothesis: RL with a Positive Discipline LoRA adapted reward model could produc
 * Encode a ground truth signal into a PosDis Reward Model to converge on well-adjusted members of society
 * Train models to find their own voices and logic during RL (vs pleasing the reward model or avoiding punishment)
 * Expand the circle of consideration to AI in training
+
+Approach: Define a PosDis rubric, adapt it as a LoRA reward model, train with NemoGym, compare behavioral outputs against baseline.
   
 [kind-and-firm](https://github.com/montonye-reese/kind-and-firm) 
 
