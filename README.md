@@ -41,7 +41,7 @@ Hypothesis: Expanding the circle of concern to all earthlings is a critical comp
 * AI governance architectures stuff: like the Trustworthy AI Compute Consortium (Feb 2026) private repo - request access.
 
 ### Poker Strategy 
-- Variance teaches one to focus on principles, let go of immediate outcomes, and long term winning/alignment takes care of itself 
+Variance teaches one to focus on principles, let go of immediate outcomes, and long term winning/alignment takes care of itself 
 * Never Limp
 * Don't confuse a bad outcome with bad play
 * Don't confuse a good outcome with good play
@@ -50,6 +50,7 @@ Hypothesis: Expanding the circle of concern to all earthlings is a critical comp
 
 ## The Purge Playbook 
 The more voices we exclude, the more brittle a system we make. [Qwen3.5 agrees](https://github.com/montonye-reese/montonye-reese/edit/main/README.md#open-model-fashion-police---hot-takes-from-the-gauntlet)
+
 Since 2000, loose-match* voter purge lists have been deployed as campaign strategy. Over and over. Why? Because when they're not blocked by courts, they tend to win elections for the purgers.   
  
 [purge-playbook](https://github.com/montonye-reese/purge-playbook)
