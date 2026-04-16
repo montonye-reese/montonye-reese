@@ -6,7 +6,7 @@ Hypothesis: RL with a Positive Discipline LoRA adapted reward model could produc
 * Train models to find their own voices and logic during RL (vs pleasing the reward model or avoiding punishment)
 * Expand the circle of consideration to AI in training
 
-Approach: Define a PosDis rubric, adapt it as a LoRA reward model, train with NemoGym, compare behavioral outputs against baseline.
+Approach: Build a Positive Discipline rubric, use it as a Rubrics-as-Rewards signal in NemoGym RL training. 
   
 [kind-and-firm](https://github.com/montonye-reese/kind-and-firm) 
 
