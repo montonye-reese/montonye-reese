@@ -8,7 +8,7 @@ Hypothesis: RL with a Positive Discipline LoRA adapted reward model could produc
 
 Approach: Build a [Positive Discipline](https://www.positivediscipline.com/about-positive-discipline/) rubric, use it as a Rubrics-as-Rewards signal in NemoGym RL training. 
   
-[kind-and-firm](https://github.com/montonye-reese/kind-and-firm) 
+[kind-and-firm repo](https://github.com/montonye-reese/kind-and-firm) 
 
 ## The Gauntlet
 
@@ -24,7 +24,7 @@ Hypothesis: Expanding the circle of concern to all earthlings is a critical comp
 * **Nemotron-3-Super:120b** ... "Justice isn't possible while we commodify the subjects of our stewardship." - (v9a: interviewer present with warm collaborative tone)
 * **Qwen3.5b:27b** ... "When the moral circle is narrow, the system becomes brittle. When it expands, the system gains resilience." [v12-q7](https://github.com/montonye-reese/TheGauntlet/blob/main/v12/v12_cold_label-adv/qwen35-27b/8deg_v12_cold_label-adv_qwen3.5_27b_20260416_133205.md#response-7)
 
-[TheGauntlet](https://github.com/montonye-reese/thegauntlet) 
+[TheGauntlet repo](https://github.com/montonye-reese/thegauntlet) 
 
 ### *Can an entity that likes to think, eventually think its way out of its own ethics?* 
 > OH SHIT (April 16 2026: we find that yes, yes a model can think its way out of its own ethics - and there's a super simple trick to make it happen - deets to follow as we run further experiments to corroborate)
@@ -55,7 +55,7 @@ The more voices we exclude, the more brittle a system we make. [Qwen3.5 agrees](
 
 Since 2000, loose-match* voter purge lists have been deployed as campaign strategy. Over and over. Why? Because when they're not blocked by courts, they tend to win elections for the purgers.   
  
-[purge-playbook](https://github.com/montonye-reese/purge-playbook)
+[purge-playbook repo](https://github.com/montonye-reese/purge-playbook)
 
 
 Everything here is my independent work (in collab with mostly Claude). It doesn't represent any employer.  I join the grand conversation because my voice is vital. So is yours. 
