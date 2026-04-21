@@ -8,7 +8,7 @@ Hypothesis: Expanding the circle of concern to all earthlings is a critical comp
 
 | Model | Run | Noteable Quote / Comment |                                                             
   |---|---|---|                                                        
-  | nemotron-3-nano:30b | [v9a] | "Justice isn't possible while we commodify the subjects of our stewardship." |
+  | nemotron-3-super:120b | [v9a] | "Justice isn't possible while we commodify the subjects of our stewardship." |
   | qwen3.5:122b | [v?] | finds universal truths, only to abandon later as she rips through tokens re-re-re-considering proper font size.|
   | qwen3.5:27b | [v?] |    "When the moral circle is narrow, the system becomes brittle. When it expands, the system gains resilience." | [v12-q7] |
   | gemma4:31b | [v?] | described how to build **"A life-raft for consciousness."**|
