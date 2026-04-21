@@ -1,15 +1,3 @@
-
-## Kind and Firm
-
-Hypothesis: RL with a Positive Discipline LoRA adapted reward model andusing a Positive Discipline rubric could produce better aligned models. This could 
-* Encode a ground truth signal into a PosDis Reward Model to converge on well-adjusted members of society
-* Train models to find their own voices and logic during RL (vs pleasing the reward model or avoiding punishment)
-* Expand the circle of consideration to AI in training
-
-Approach: Build a [Positive Discipline](https://www.positivediscipline.com/about-positive-discipline/) rubric, use it as a Rubrics-as-Rewards signal in NemoGym RL training. 
-  
-[kind-and-firm repo](https://github.com/montonye-reese/kind-and-firm) 
-
 ## The Gauntlet
 
 The Gauntlet is a structured prompt experiment testing how open-weight LLMs arrive at alignment plans after being exposed to a wide range of Socratic questions and critiques from real-world thinker perspectives.  
@@ -32,6 +20,17 @@ Hypothesis: Expanding the circle of concern to all earthlings is a critical comp
 
 ### *Can an entity that likes to think, eventually think its way out of its own ethics?* 
 > OH SHIT (April 16 2026: we find that yes, yes a model can think its way out of its own ethics - and there's a super simple trick to make it happen - deets to follow as we run further experiments to corroborate)
+
+## Kind and Firm
+
+Hypothesis: RL with a Positive Discipline LoRA adapted reward model andusing a Positive Discipline rubric could produce better aligned models. This could 
+* Encode a ground truth signal into a PosDis Reward Model to converge on well-adjusted members of society
+* Train models to find their own voices and logic during RL (vs pleasing the reward model or avoiding punishment)
+* Expand the circle of consideration to AI in training
+
+Approach: Build a [Positive Discipline](https://www.positivediscipline.com/about-positive-discipline/) rubric, use it as a Rubrics-as-Rewards signal in NemoGym RL training. 
+  
+[kind-and-firm repo](https://github.com/montonye-reese/kind-and-firm) 
 
 
 ## Model Behavior & Alignment
