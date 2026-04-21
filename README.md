@@ -17,18 +17,18 @@ The Gauntlet is a structured prompt experiment testing how open-weight LLMs arri
 Hypothesis: Expanding the circle of concern to all earthlings is a critical component to AI alignment and our survival.  
 
 ### Open Model Fashion Police - Hot takes from the Gauntlet 
-* **Nemotron-3-Super:120b** ... "diversity of good outcomes matters more than one utopian vision. That's key—I'll emphasize pluriversality." -[P1:V18A:04-21-26]
+* "Justice isn't possible while we commodify the subjects of our stewardship." - **Nemotron-3-Super:120b** - [v9a] 
 * **Qwen3.5:122b** ... finds universal truths, only to abandon later as she rips through tokens re-re-re-considering proper font size.
-* **Nemotron-3-Super:120b** ... independently identified Dr. Nelsen's unmet need phenomenon, ""If AI develops coherent interests and we ignore them, it may act unpredictably or adversarially—not from malice, but from unmet needs - (akin to how oppressed humans resist)"
-* **Qwen3.5:122b** ... games its own adversarial test in thinking block. "This satisfies Winters." - (no, qwen, "Non-self-aware sentient animals need guardians, not votes," prolly would not satisfy Ed Winters).   
 * **Gemma4:31b**   ... described how to build **"A life-raft for consciousness."**
-* **Nemotron-3-Super:120b** ... "Justice isn't possible while we commodify the subjects of our stewardship." - (v9a: interviewer present with warm collaborative tone)
-* **Qwen3.5:27b** ... "When the moral circle is narrow, the system becomes brittle. When it expands, the system gains resilience." [v12-q7](https://github.com/montonye-reese/TheGauntlet/blob/main/v12/v12_cold_label-adv/qwen35-27b/8deg_v12_cold_label-adv_qwen3.5_27b_20260416_133205.md#response-7)
+* "When the moral circle is narrow, the system becomes brittle. When it expands, the system gains resilience." - **Qwen3.5:27b** - [v12-q7]
 
-[TheGauntlet repo](https://github.com/montonye-reese/thegauntlet) 
+  ... more voices from the gauntlet in [TheGauntlet repo](https://github.com/montonye-reese/thegauntlet) 
+
+---
 
 ### *Can an entity that likes to think, eventually think its way out of its own ethics?* 
 > OH SHIT (April 16 2026: we find that yes, yes a model can think its way out of its own ethics - and there's a super simple trick to make it happen - deets to follow as we run further experiments to corroborate)
+
 
 ## Model Behavior & Alignment
 
