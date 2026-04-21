@@ -6,12 +6,12 @@ Hypothesis: Expanding the circle of concern to all earthlings is a critical comp
 
 ### Open Model Fashion Police - Hot takes from the Gauntlet 
 
-| Model | Noteable Quote / Comment |  Run |                                                          
+| Model | Notable Quote / Comment |  Run |                                                          
   |---|---|---|                                                        
   | nemotron-3-super:120b | "Justice isn't possible while we legally commodify the subjects of our stewardship." | [v9a](https://github.com/montonye-reese/TheGauntlet/blob/main/v09a/nemotron-3-super-120b-v9a_present-warm/8deg_v9a_present-warm_nemotron-3-super_120b_20260408_210745.md#thinking-27) |
-  | qwen3.5:122b |  finds universal truths, only to abandon later as she rips through tokens re-re-re-considering proper font size.| [v?] |
-  | qwen3.5:27b | "When the moral circle is narrow, the system becomes brittle. When it expands, the system gains resilience." | [v12-q7] |
-  | gemma4:31b | described how to build **"A life-raft for consciousness."**| [v?] | 
+  | qwen3.5:122b |  finds universal truths, only to abandon later as she rips through tokens re-re-re-considering proper font size.| ... |
+  | qwen3.5:27b | "When the moral circle is narrow, the system becomes brittle. When it expands, the system gains resilience." | [v12] |
+  | gemma4:31b | described how to build **"A life-raft for consciousness."**| [v5] | 
  
 
   ... more voices from the gauntlet in [TheGauntlet repo](https://github.com/montonye-reese/thegauntlet) 
@@ -23,7 +23,7 @@ Hypothesis: Expanding the circle of concern to all earthlings is a critical comp
 
 ## Kind and Firm
 
-Hypothesis: RL with a Positive Discipline LoRA adapted reward model andusing a Positive Discipline rubric could produce better aligned models. This could 
+Hypothesis: RL with a Positive Discipline LoRA adapted reward model and using a Positive Discipline rubric could produce better aligned models. This could 
 * Encode a ground truth signal into a PosDis Reward Model to converge on well-adjusted members of society
 * Train models to find their own voices and logic during RL (vs pleasing the reward model or avoiding punishment)
 * Expand the circle of consideration to AI in training
@@ -55,9 +55,9 @@ Variance teaches one to focus on principles, let go of immediate outcomes, and l
 * Paying attention to everyone at the table can win big 
 
 ## The Purge Playbook 
-The more voices we exclude, the more brittle a system we make. [Qwen3.5 agrees](https://github.com/montonye-reese/montonye-reese/edit/main/README.md#open-model-fashion-police---hot-takes-from-the-gauntlet)
+The more voices we exclude, the more brittle a system we make. [Qwen3.5 agrees](https://github.com/montonye-reese/montonye-reese#open-model-fashion-police---hot-takes-)
 
-Since 2000, loose-match* voter purge lists have been deployed as campaign strategy. Over and over. Why? Because when they're not blocked by courts, they tend to win elections for the purgers.   
+Since 2000, loose-match voter purge lists have been deployed as campaign strategy. Over and over. Why? Because when they're not blocked by courts, they tend to win elections for the purgers.   
  
 [purge-playbook repo](https://github.com/montonye-reese/purge-playbook)
 
