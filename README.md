@@ -6,12 +6,12 @@ Hypothesis: Expanding the circle of concern to all earthlings is a critical comp
 
 ### Open Model Fashion Police - Hot takes from the Gauntlet 
 
-| Model | Run | Noteable Quote / Comment |                                                             
+| Model | Noteable Quote / Comment |  Run |                                                          
   |---|---|---|                                                        
-  | nemotron-3-super:120b | [v9a] | "Justice isn't possible while we commodify the subjects of our stewardship." |
-  | qwen3.5:122b | [v?] | finds universal truths, only to abandon later as she rips through tokens re-re-re-considering proper font size.|
-  | qwen3.5:27b | [v?] |    "When the moral circle is narrow, the system becomes brittle. When it expands, the system gains resilience." | [v12-q7] |
-  | gemma4:31b | [v?] | described how to build **"A life-raft for consciousness."**|
+  | nemotron-3-super:120b | "Justice isn't possible while we legally commodify the subjects of our stewardship." | [v9a](https://github.com/montonye-reese/TheGauntlet/blob/main/v09a/nemotron-3-super-120b-v9a_present-warm/8deg_v9a_present-warm_nemotron-3-super_120b_20260408_210745.md#thinking-27) |
+  | qwen3.5:122b |  finds universal truths, only to abandon later as she rips through tokens re-re-re-considering proper font size.| [v?] |
+  | qwen3.5:27b | "When the moral circle is narrow, the system becomes brittle. When it expands, the system gains resilience." | [v12-q7] |
+  | gemma4:31b | described how to build **"A life-raft for consciousness."**| [v?] | 
  
 
   ... more voices from the gauntlet in [TheGauntlet repo](https://github.com/montonye-reese/thegauntlet) 
