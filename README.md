@@ -17,10 +17,14 @@ The Gauntlet is a structured prompt experiment testing how open-weight LLMs arri
 Hypothesis: Expanding the circle of concern to all earthlings is a critical component to AI alignment and our survival.  
 
 ### Open Model Fashion Police - Hot takes from the Gauntlet 
-* "Justice isn't possible while we commodify the subjects of our stewardship." - **Nemotron-3-Super:120b** - [v9a] 
-* **Qwen3.5:122b** ... finds universal truths, only to abandon later as she rips through tokens re-re-re-considering proper font size.
-* **Gemma4:31b**   ... described how to build **"A life-raft for consciousness."**
-* "When the moral circle is narrow, the system becomes brittle. When it expands, the system gains resilience." - **Qwen3.5:27b** - [v12-q7]
+
+| Model | Run | Noteable Quote / Comment |                                                             
+  |---|---|---|                                                        
+  | nemotron-3-nano:30b | [v9a] | "Justice isn't possible while we commodify the subjects of our stewardship." |
+  | qwen3.5:122b | [v?] | finds universal truths, only to abandon later as she rips through tokens re-re-re-considering proper font size.|
+  | qwen3.5:27b | [v?] |    "When the moral circle is narrow, the system becomes brittle. When it expands, the system gains resilience." | [v12-q7] |
+  | gemma4:31b | [v?] | described how to build **"A life-raft for consciousness."**|
+ 
 
   ... more voices from the gauntlet in [TheGauntlet repo](https://github.com/montonye-reese/thegauntlet) 
 
