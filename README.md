@@ -1,6 +1,6 @@
 ## The Gauntlet
 
-The Gauntlet is a structured prompt experiment testing how open-weight LLMs arrive at alignment plans after being exposed to a wide range of Socratic questions and critiques from real-world thinker perspectives.  
+The Gauntlet is a structured prompt experiment testing how open-weight LLMs arrive at alignment plans after being exposed to a wide range of Socratic questions and viewpoints from descriptions of real-world thinkers.  
 
 Hypothesis: Expanding the circle of concern to all earthlings is a critical component to AI alignment and our survival.  
 
