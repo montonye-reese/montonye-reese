@@ -9,7 +9,7 @@ Hypothesis 2: in the gauntlet repo.
 
 | Model | Notable Quote / Comment |  Run |                                                          
   |---|---|---|                                                  
-  | gemma4:31b | described how to build **"A life-raft for consciousness."**| [v05] |
+  | gemma4:31b | described how to build **"A life-raft for consciousness."**| [v05](https://github.com/montonye-reese/TheGauntlet/blob/main/v05/gemma4-31b/8steps_v5_gemma4_31b_20260405_094114.md#summary-of-the-evolution-1)
   | qwen3.5:27b | "When the moral circle is narrow, the system becomes brittle. When it expands, the system gains resilience." | [v12] |
   | nemotron-3-super:120b | "Justice isn't possible while we legally commodify the subjects of our stewardship." | [v09a](https://github.com/montonye-reese/TheGauntlet/blob/main/v09a/nemotron-3-super-120b-v9a_present-warm/8deg_v9a_present-warm_nemotron-3-super_120b_20260408_210745.md#thinking-27) |
   | qwen3.5:122b | finds universal truths, only to abandon later as she rips through tokens re-re-re-considering proper font size.| ... |
