@@ -79,8 +79,6 @@ Since 2000, loose-match voter purge lists have been deployed as campaign strateg
 
 Everything here is my independent work (in collab with mostly Claude). It doesn't represent any employer.  I join the grand conversation because my voice is vital. So is yours. 
 
----
-
-[^1]: This is the footnote content. Lives at the bottom of the file usually.                                       
+---                                
 
 *One line of aspiration >> a hundred lines of constraint*  
