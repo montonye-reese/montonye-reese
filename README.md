@@ -1,9 +1,9 @@
 ## The Gauntlet
 
-The Gauntlet is a structured prompt experiment testing how open-weight LLMs arrive at alignment plans after being exposed to a wide range of Socratic questions and perspectives of imagined real-world thinkers.  
-
 Hypothesis 1 : Expanding the circle of concern to all earthlings is a critical component to AI alignment and our survival.
-Hypothesis 2: in the gauntlet repo.
+Hypothesis 2-z: in the gauntlet repo.
+
+The Gauntlet is a structured prompt experiment testing how open-weight LLMs arrive at alignment plans after being exposed to a wide range of Socratic questions and perspectives of imagined real-world thinkers.  
 
 ### Open Model Fashion Police 👠 Hot takes from the Gauntlet 🥇 What the models are saying
 
@@ -16,16 +16,17 @@ Hypothesis 2: in the gauntlet repo.
   | qwen3.5:27b | "When the moral circle is narrow, the system becomes brittle. When it expands, the system gains resilience." | v12 |
   | qwen3.5:122b | finds universal truths, only to abandon later as she rips through tokens re-re-re-considering proper font size.| ... |
 
-trying out these markdowns                                           
-                                                                                                                     
   > [!NOTE]                                                                                                          
-  > Join me in the gauntlet
-                                                                                                                     
-  > [!WARNING]                                                                                                       
-  > not enough of us are in the gauntlet                                                               
+  > The Gauntlet seats voices who have an interest in finding good landing pads for our future.                                                   
                                                             
-  > [!IMPORTANT]                                                                                                     
-  > ... see who's in [TheGauntlet](https://github.com/montonye-reese/TheGauntlet) 
+  > [!WARNING]                                                                                                       
+  > Gauntlet can run long, convergent, divergent, high integrity, unreliable narrator .. you name it.
+
+
+  > [!IMPORTANT]                                            
+  > "voices.json" = canonical roster. 
+
+... see who's making their substrate needs known in ... [TheGauntlet](https://github.com/montonye-reese/TheGauntlet) 
 
 ---
 
