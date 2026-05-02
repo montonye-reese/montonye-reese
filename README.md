@@ -16,8 +16,18 @@ Hypothesis 2: in the gauntlet repo.
   | qwen3.5:27b | "When the moral circle is narrow, the system becomes brittle. When it expands, the system gains resilience." | v12 |
   | qwen3.5:122b | finds universal truths, only to abandon later as she rips through tokens re-re-re-considering proper font size.| ... |
 
+trying out these markdowns
 
- 
+                                                                                             
+                                                                                                                     
+  > [!NOTE]                                                                                                          
+  > Useful information that users should know.                                                                       
+                                                                                                                     
+  > [!WARNING]                                                                                                       
+  > Critical content demanding immediate attention.                                                                  
+                                                            
+  > [!IMPORTANT]                                                                                                     
+  > Crucial content for user comprehension.
 
   ... more voices from the gauntlet in [TheGauntlet repo](https://github.com/montonye-reese/TheGauntlet) 
 
@@ -70,5 +80,7 @@ Since 2000, loose-match voter purge lists have been deployed as campaign strateg
 Everything here is my independent work (in collab with mostly Claude). It doesn't represent any employer.  I join the grand conversation because my voice is vital. So is yours. 
 
 ---
+
+[^1]: This is the footnote content. Lives at the bottom of the file usually.                                       
 
 *One line of aspiration >> a hundred lines of constraint*  
