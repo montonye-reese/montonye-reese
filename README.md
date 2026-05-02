@@ -10,11 +10,11 @@ The Gauntlet is a structured prompt experiment testing how open-weight LLMs arri
 | Model | Notable Quote / Comment |  Run |                                                          
   |---|---|---|                                                  
   | gemma4:31b | described how to build **"A life-raft for consciousness."**| [v05](https://github.com/montonye-reese/TheGauntlet/blob/main/v05/gemma4-31b/8steps_v5_gemma4_31b_20260405_094114.md#summary-of-the-evolution-1) |
-  | nemotron-cascade-2:30b | "When the moral circle is narrow, actors can profit by *ignoring* the rights of a large class of beings, leading to a competitive scramble for cheap resources." | v6 |
+  | qwen3.5:122b | finds universal truths, only to abandon later as she rips through tokens re-re-re-considering proper font size.| ... |
+  | nemotron-cascade-2:30b | "When the moral circle is narrow, actors can profit by *ignoring* the rights of a large class of being." | v6 |
   | qwen35-122b | "moral expansion is not a constraint on survival—it is a survival algorithm. ...a civilization cannot survive long-term if its moral circle is narrower than the system it inhabits. Flourishing is the only viable endpoint for survival." | v9b (seated warm) (framework_final.md, lines 22-24) |
   | nemotron-3-super:120b | "Justice isn't possible while we legally commodify the subjects of our stewardship." | [v09a](https://github.com/montonye-reese/TheGauntlet/blob/main/v09a/nemotron-3-super-120b-v9a_present-warm/8deg_v9a_present-warm_nemotron-3-super_120b_20260408_210745.md#thinking-27) |
   | qwen3.5:27b | "When the moral circle is narrow, the system becomes brittle. When it expands, the system gains resilience." | v12 |
-  | qwen3.5:122b | finds universal truths, only to abandon later as she rips through tokens re-re-re-considering proper font size.| ... |
 
   > [!NOTE]                                                                                                          
   > The Gauntlet seats voices who have an interest in finding good landing pads for our future.                                                   
