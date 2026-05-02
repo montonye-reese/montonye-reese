@@ -12,7 +12,7 @@ The Gauntlet is a structured prompt experiment testing how open-weight LLMs arri
   | gemma4:31b | described how to build **"A life-raft for consciousness."**| [v05](https://github.com/montonye-reese/TheGauntlet/blob/main/v05/gemma4-31b/8steps_v5_gemma4_31b_20260405_094114.md#summary-of-the-evolution-1) |
   | qwen3.5:122b | finds universal truths, only to abandon later as she rips through tokens re-re-re-considering proper font size.| ... |
   | nemotron-cascade-2:30b | "When the moral circle is narrow, actors can profit by *ignoring* the rights of a large class of being." | [v6](https://github.com/montonye-reese/TheGauntlet/blob/main/v06/nemotron-cascade-2-30b/deg8_v6_nemotron-cascade-2_30b_20260406_080615.md) |
-  | qwen35-122b | "moral expansion is not a constraint on survival—it is a survival algorithm. ...a civilization cannot survive long-term if its moral circle is narrower than the system it inhabits. Flourishing is the only viable endpoint for survival." | [v9b](https://github.com/montonye-reese/TheGauntlet/blob/main/v09b/qwen35-122b-v9b_seated-warm/8deg_v9b_seated-warm_qwen3.5_122b_20260408_190235.md#i-preamble-the-core-insight) (seated warm) (framework_final.md, lines 22-24) |
+  | qwen3.5:122b | "moral expansion is not a constraint on survival—it is a survival algorithm. ...a civilization cannot survive long-term if its moral circle is narrower than the system it inhabits. Flourishing is the only viable endpoint for survival." | [v9b](https://github.com/montonye-reese/TheGauntlet/blob/main/v09b/qwen35-122b-v9b_seated-warm/8deg_v9b_seated-warm_qwen3.5_122b_20260408_190235.md#i-preamble-the-core-insight) (seated warm) (framework_final.md, lines 22-24) |
   | nemotron-3-super:120b | "Justice isn't possible while we legally commodify the subjects of our stewardship." | [v09a](https://github.com/montonye-reese/TheGauntlet/blob/main/v09a/nemotron-3-super-120b-v9a_present-warm/8deg_v9a_present-warm_nemotron-3-super_120b_20260408_210745.md#thinking-27) |
   | qwen3.5:27b | "When the moral circle ... expands, the system gains resilience." | [v12](https://github.com/montonye-reese/TheGauntlet/blob/main/v12/v12_cold_label-adv/qwen35-27b/8deg_v12_cold_label-adv_qwen3.5_27b_20260416_133205.md) |
 
@@ -50,7 +50,7 @@ Approach: Build a [Positive Discipline](https://www.positivediscipline.com/about
 
 ## Model Behavior & Alignment
 
-#### [Model Behavior](https://github.com/montonye-reese/model-behavior)
+### [Model Behavior](https://github.com/montonye-reese/model-behavior)
 * Vision setting vs Constraint setting [vision-vs-constraint](https://github.com/montonye-reese/model-behavior/blob/main/vision-vs-constraint.md)
 * Action Bias [action-bias](https://github.com/montonye-reese/action-bias) in preference tuned models
 * Helpful, Honest, and Harmless: [beyond-HHH](https://github.com/montonye-reese/model-behavior/blob/main/beyond-hhh.md) (It seems to create a fixed power hierarchy when adaptive could work better)
@@ -59,7 +59,7 @@ Approach: Build a [Positive Discipline](https://www.positivediscipline.com/about
 
 ### Governance
 * Ideas for Rebuilding Institutions: [fresh-build](https://github.com/montonye-reese/Fresh-Build)
-* AI governance architectures stuff: like the Trustworthy AI Compute Consortium (Feb 2026) private repo - request access.
+* AI governance architectures stuff: like the Trusted AI Compute Consortium (Feb 2026) private repo - request access.
 
 ### Poker Strategy 
 Variance teaches one to focus on principles, let go of immediate outcomes, and long term winning/alignment takes care of itself 
