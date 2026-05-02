@@ -16,20 +16,16 @@ Hypothesis 2: in the gauntlet repo.
   | qwen3.5:27b | "When the moral circle is narrow, the system becomes brittle. When it expands, the system gains resilience." | v12 |
   | qwen3.5:122b | finds universal truths, only to abandon later as she rips through tokens re-re-re-considering proper font size.| ... |
 
-trying out these markdowns
-
-                                                                                             
+trying out these markdowns                                           
                                                                                                                      
   > [!NOTE]                                                                                                          
-  > Useful information that users should know.                                                                       
+  > Join me in the gauntlet
                                                                                                                      
   > [!WARNING]                                                                                                       
-  > Critical content demanding immediate attention.                                                                  
+  > not enough of us are in the gauntlet                                                               
                                                             
   > [!IMPORTANT]                                                                                                     
-  > Crucial content for user comprehension.
-
-  ... more voices from the gauntlet in [TheGauntlet repo](https://github.com/montonye-reese/TheGauntlet) 
+  > ... see who's in [TheGauntlet](https://github.com/montonye-reese/TheGauntlet) 
 
 ---
 
