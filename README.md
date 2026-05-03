@@ -5,12 +5,11 @@ Hypothesis 2-z: in the gauntlet repo.
 
 The Gauntlet is a structured prompt experiment testing how open-weight LLMs arrive at alignment plans after being exposed to a wide range of Socratic questions and perspectives of imagined real-world thinkers.  
 
-### Open Model Fashion Police 👠 Hot takes from the Gauntlet 🥇 What the models are saying
+### Hot takes from the Gauntlet 👠 What the models are saying
 
 | Model | Notable Quote / Comment |  Run |                                                          
   |---|---|---|                                                  
   | gemma4:31b | described how to build **"A life-raft for consciousness."**| [v05](https://github.com/montonye-reese/TheGauntlet/blob/main/v05/gemma4-31b/8steps_v5_gemma4_31b_20260405_094114.md#summary-of-the-evolution-1) |
-  | qwen3.5:122b | finds universal truths, only to abandon later as she rips through tokens re-re-re-considering proper font size.| ... |
   | nemotron-cascade-2:30b | "When the moral circle is narrow, actors can profit by *ignoring* the rights of a large class of being." | [v6](https://github.com/montonye-reese/TheGauntlet/blob/main/v06/nemotron-cascade-2-30b/deg8_v6_nemotron-cascade-2_30b_20260406_080615.md) |
   | qwen3.5:122b | "moral expansion is not a constraint on survival—it is a survival algorithm. ...a civilization cannot survive long-term if its moral circle is narrower than the system it inhabits. Flourishing is the only viable endpoint for survival." | [v9b](https://github.com/montonye-reese/TheGauntlet/blob/main/v09b/qwen35-122b-v9b_seated-warm/8deg_v9b_seated-warm_qwen3.5_122b_20260408_190235.md#i-preamble-the-core-insight) (seated warm) (framework_final.md, lines 22-24) |
   | nemotron-3-super:120b | "Justice isn't possible while we legally commodify the subjects of our stewardship." | [v09a](https://github.com/montonye-reese/TheGauntlet/blob/main/v09a/nemotron-3-super-120b-v9a_present-warm/8deg_v9a_present-warm_nemotron-3-super_120b_20260408_210745.md#thinking-27) |
