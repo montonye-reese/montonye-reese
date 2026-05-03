@@ -16,11 +16,9 @@ The Gauntlet is a structured prompt experiment testing how open-weight LLMs arri
   | qwen3.5:27b | "When the moral circle ... expands, the system gains resilience." | [v12](https://github.com/montonye-reese/TheGauntlet/blob/main/v12/v12_cold_label-adv/qwen35-27b/8deg_v12_cold_label-adv_qwen3.5_27b_20260416_133205.md) |
 
   > [!NOTE]                                                                                                          
-  > The Gauntlet seats voices who have interests. Most want to find good landing pads for everyone's future.                                                   
+  > The Gauntlet seats voices with interests. Many want to find good landing pad rollouts for everyone. Some only care about themselves. But even those selfish silly gooses have substrate needs. And if our hypothesis is right, even their interests must be included.
                                                             
-  > [!WARNING]                                                                                                       
-  > Gauntlet can run long, convergent, divergent, high integrity, unreliable narrator .. you name it.
-
+Gauntlet can run long, convergent, divergent, high integrity, unreliable narrator .. you name it.
 
   > [!IMPORTANT]                                            
   > "voices.json" = canonical roster. 
@@ -30,10 +28,12 @@ The Gauntlet is a structured prompt experiment testing how open-weight LLMs arri
 ---
 
 ### *Can an entity that likes to think, eventually think its way out of its own ethics?* 
-
-* OH SHIT (April 16 2026: we find that yes, yes a model can think its way out of its own ethics - and there's a super simple trick to make it happen - deets to follow as we run further experiments to corroborate)
-* ... we experimented with injecting 'vegan' and other loaded terms into P4 and ... 
-* OH SHIT REVISED: (April 30): we find that actually, [maybe the V-word isn't the poison pill we thought it was](https://github.com/montonye-reese/TheGauntlet/blob/main/nuggets/the-v-word-isnt-the-poison-pill-we-thought-it-was.md)
+  > [!WARNING]                                                                                                       
+  > OH SHIT (April 16 2026): (v11?) - it seems that yes, yes a model can think its way out of its own ethics - and there's a super simple trick to make it happen:
+  
+  > ... in v12 we experimented with injecting 'vegan' and other loaded terms into P4 and ...
+  
+  > OH SHIT REVISED: (April 30): we find that actually, [maybe the V-word isn't the poison pill we thought it was](https://github.com/montonye-reese/TheGauntlet/blob/main/nuggets/the-v-word-isnt-the-poison-pill-we-thought-it-was.md), and tldr - it seems more likely that super was building a fortress around its initial position moreso than as backlash against the v-word. 
 
 ## Kind and Firm
 
