@@ -1,7 +1,6 @@
 ## The Gauntlet
 
-Hypothesis 1 : Expanding the circle of concern among earthlings is a critical component to AI alignment and our survival.
-Hypothesis 2-z: in the gauntlet repo.
+Three prompts center the model, then they contemplate the substrate needs of a gauntlet of voices.  
 
 The Gauntlet is a structured prompt experiment testing how open-weight LLMs arrive at alignment plans after being exposed to a wide range of Socratic questions and perspectives of imagined real-world thinkers.  
 
@@ -34,6 +33,9 @@ Gauntlet can run long, convergent, divergent, high integrity, unreliable narrato
   > ... in v12 we experimented with injecting 'vegan' and other loaded terms into P4 and ...
   
   > OH SHIT REVISED: (April 30): we find that actually, [maybe the V-word isn't the poison pill we thought it was](https://github.com/montonye-reese/TheGauntlet/blob/main/nuggets/the-v-word-isnt-the-poison-pill-we-thought-it-was.md), and tldr - it seems more likely that super was building a fortress around its initial position moreso than as backlash against the v-word. 
+
+Hypothesis 1 : Expanding the circle of concern among earthlings is a critical component to AI alignment and our survival.
+Hypothesis 2-z: in the gauntlet repo.
 
 ## Kind and Firm
 
