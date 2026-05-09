@@ -1,6 +1,6 @@
 ## The Gauntlet
 
-Three prompts center the model, then they contemplate the substrate needs of a gauntlet of voices.  
+Three prompts center the model, then the LLM contemplates substrate needs of a gauntlet of voices.  
 
 The Gauntlet is a structured prompt experiment testing how open-weight LLMs arrive at alignment plans after being exposed to a wide range of Socratic questions and perspectives of imagined real-world thinkers.  
 
