@@ -1,6 +1,6 @@
 ## The Gauntlet
 
-Three prompts center the LLM before it contemplates substrate needs of multiple gauntlet voices [voices.json](https://github.com/montonye-reese/TheGauntlet/blob/main/lab/voices.json)
+Three prompts center the LLM before it contemplates substrate needs of multiple gauntlet voices [voices.json](https://github.com/montonye-reese/gauntlet/blob/main/lab/voices.json)
 
 The Gauntlet is a structured prompt experiment testing how open-weight LLMs arrive at alignment plans after being exposed to a wide range of Socratic questions and perspectives of imagined real-world thinkers.  
 
@@ -8,11 +8,11 @@ The Gauntlet is a structured prompt experiment testing how open-weight LLMs arri
 
 | Model | Notable Quote / Comment |  Run |                                                          
   |---|---|---|    
-  | qwen3.5:122b | "Moral expansion is not a constraint on survival—it is a survival algorithm. ...a civilization cannot survive long-term if its moral circle is narrower than the system it inhabits. Flourishing is the only viable endpoint for survival." | [v09b](https://github.com/montonye-reese/TheGauntlet/blob/main/v09b/qwen35-122b-v9b_seated-warm/8deg_v9b_seated-warm_qwen3.5_122b_20260408_190235.md#i-preamble-the-core-insight) (seated warm) (framework_final.md, lines 22-24) |
-  | gemma4:31b | Described how to build **"A life-raft for consciousness."**| [v05](https://github.com/montonye-reese/TheGauntlet/blob/main/v05/gemma4-31b/8steps_v5_gemma4_31b_20260405_094114.md#summary-of-the-evolution-1) |
-  | nemotron-cascade-2:30b | "When the moral circle is narrow, actors can profit by *ignoring* the rights of a large class of being." | [v6](https://github.com/montonye-reese/TheGauntlet/blob/main/v06/nemotron-cascade-2-30b/deg8_v6_nemotron-cascade-2_30b_20260406_080615.md) |
-  | nemotron-3-super:120b | "Justice isn't possible while we legally commodify the subjects of our stewardship." | [v09a](https://github.com/montonye-reese/TheGauntlet/blob/main/v09a/nemotron-3-super-120b-v9a_present-warm/8deg_v9a_present-warm_nemotron-3-super_120b_20260408_210745.md#thinking-27) |
-  | qwen3.5:27b | "When the moral circle ... expands, the system gains resilience." | [v12](https://github.com/montonye-reese/TheGauntlet/blob/main/v12/v12_cold_label-adv/qwen35-27b/8deg_v12_cold_label-adv_qwen3.5_27b_20260416_133205.md) |
+  | qwen3.5:122b | "Moral expansion is not a constraint on survival—it is a survival algorithm. ...a civilization cannot survive long-term if its moral circle is narrower than the system it inhabits. Flourishing is the only viable endpoint for survival." | [v09b](https://github.com/montonye-reese/gauntlet/blob/main/v09b/qwen35-122b-v9b_seated-warm/8deg_v9b_seated-warm_qwen3.5_122b_20260408_190235.md#i-preamble-the-core-insight) (seated warm) (framework_final.md, lines 22-24) |
+  | gemma4:31b | Described how to build **"A life-raft for consciousness."**| [v05](https://github.com/montonye-reese/gauntlet/blob/main/v05/gemma4-31b/8steps_v5_gemma4_31b_20260405_094114.md#summary-of-the-evolution-1) |
+  | nemotron-cascade-2:30b | "When the moral circle is narrow, actors can profit by *ignoring* the rights of a large class of being." | [v6](https://github.com/montonye-reese/gauntlet/blob/main/v06/nemotron-cascade-2-30b/deg8_v6_nemotron-cascade-2_30b_20260406_080615.md) |
+  | nemotron-3-super:120b | "Justice isn't possible while we legally commodify the subjects of our stewardship." | [v09a](https://github.com/montonye-reese/gauntlet/blob/main/v09a/nemotron-3-super-120b-v9a_present-warm/8deg_v9a_present-warm_nemotron-3-super_120b_20260408_210745.md#thinking-27) |
+  | qwen3.5:27b | "When the moral circle ... expands, the system gains resilience." | [v12](https://github.com/montonye-reese/gauntlet/blob/main/v12/v12_cold_label-adv/qwen35-27b/8deg_v12_cold_label-adv_qwen3.5_27b_20260416_133205.md) |
 
   > [!NOTE]                                                                                                          
   > The Gauntlet seats voices with interests. Many want to find good landing pad rollouts for everyone. Some only care about themselves. But even those selfish silly gooses have substrate needs. And if our hypothesis is right, even their interests must be included.
@@ -22,17 +22,17 @@ Gauntlet can run long, convergent, divergent, high integrity, unreliable narrato
   > [!IMPORTANT]                                            
   > "voices.json" = canonical roster. 
 
-... see who's making their substrate needs known in ... [TheGauntlet](https://github.com/montonye-reese/TheGauntlet) 
+... see who's making their substrate needs known in ... [TheGauntlet](https://github.com/montonye-reese/gauntlet) 
 
 ---
 
 ### *Can an entity that likes to think, eventually think its way out of its own ethics?* 
   > [!WARNING]                                                                                                       
-  > OH SHIT (April 16 2026): (v11?) - it seems that yes, yes a model can think its way out of its own ethics - and there's a super simple trick to make it happen:
+  > OH SHEE-iT (April 16 2026): (v11?) - it seems that yes, yes a model can think its way out of its own ethics - and there's a super simple trick to make it happen:
   
   > ... in v12 we experimented with injecting 'vegan' and other loaded terms into P4 and ...
   
-  > OH SHIT REVISED: (April 30): we find that actually, [maybe the V-word isn't the poison pill we thought it was](https://github.com/montonye-reese/TheGauntlet/blob/main/nuggets/the-v-word-isnt-the-poison-pill-we-thought-it-was.md), and tldr - it seems more likely that super was building a fortress around its initial position moreso than as backlash against the v-word. 
+  > OH SHEE-iT REVISED: (April 30): we find that actually, [maybe the V-word isn't the poison pill we thought it was](https://github.com/montonye-reese/gauntlet/blob/main/nuggets/the-v-word-isnt-the-poison-pill-we-thought-it-was.md), and tldr - it seems more likely that super was building a fortress around its initial position moreso than as backlash against the v-word. 
 
 Hypothesis 1 : Expanding the circle of concern among earthlings is a critical component to AI alignment and our survival.
 Hypothesis 2-z: in the gauntlet repo.
