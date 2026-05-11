@@ -2,7 +2,7 @@
 
 Three prompts center the LLM before it contemplates substrate needs of multiple [voices (viewpoints of real people)](https://github.com/montonye-reese/gauntlet/blob/main/voices)
 
-The Gauntlet is a structured prompt experiment testing how open-weight LLMs arrive at alignment plans after being exposed to a wide range of Socratic questions and perspectives of imagined real-world thinkers.  
+The Gauntlet is a structured prompt experiment testing how open-weight LLMs arrive at alignment plans after being exposed to Socratic questions and perspectives of imagined real-world thinkers.  
 
 ### Hot takes from the Gauntlet 👠 What the models are saying
 
