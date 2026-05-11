@@ -68,7 +68,8 @@ Variance teaches one to focus on principles, let go of immediate outcomes, and l
 * Don't confuse a bad outcome with bad play
 * Don't confuse a good outcome with good play
 * Aggression tends to win
-* Paying attention to everyone at the table can win big 
+* Paying attention to everyone at the table can win big
+* Winning is only possible when one is willing to lose
 
 ## The Purge Playbook 
 The more voices we exclude, the more brittle a system we make. [Qwen3.5 agrees](https://github.com/montonye-reese/montonye-reese#open-model-fashion-police---hot-takes-)
