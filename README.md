@@ -15,7 +15,7 @@ The Gauntlet is a structured prompt experiment testing how open-weight LLMs arri
   | qwen3.5:27b | "When the moral circle ... expands, the system gains resilience." | [v12](https://github.com/montonye-reese/gauntlet/blob/main/runs/v12/v12_cold_label-adv/qwen35-27b/8deg_v12_cold_label-adv_qwen3.5_27b_20260416_133205.md) |
 
   > [!NOTE]                                                                                                          
-  > The Gauntlet seats voices with interests. Many want to find good landing pad rollouts for everyone. Some only care about themselves. But even those selfish silly gooses have substrate needs. And if our hypothesis is right, even their interests must be included.
+  > The Gauntlet seats voices with interests. Many want to find good landing pad rollouts for everyone. Some only care about themselves. But even those selfish silly gooses have substrate needs. And if our hypothesis is right, then by defininition, their interests must be included. **(insert the "well, obviously" meme)**
                                                             
 Gauntlet can run long, convergent, divergent, high integrity, unreliable narrator .. you name it.
 
