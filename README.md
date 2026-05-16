@@ -63,7 +63,7 @@ Approach: Build a [Positive Discipline](https://www.positivediscipline.com/about
 * AI governance architectures stuff: like the Trusted AI Compute Consortium (Feb 2026) private repo - request access.
 
 ### Poker Strategy 
-Variance teaches one to focus on principles, let go of immediate outcomes, and long term winning/alignment takes care of itself 
+Variance teaches one to focus on principles, let go of immediate outcomes, and the long run takes care of itself 
 * Never Limp
 * Don't confuse a bad outcome with bad play
 * Don't confuse a good outcome with good play
