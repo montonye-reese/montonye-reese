@@ -1,11 +1,15 @@
 ## The Gauntlet
 
-Three prompts center the LLM before it contemplates substrate needs of multiple [voices (viewpoints of real people)](https://github.com/montonye-reese/gauntlet/blob/main/voices)
+Three prompts center the LLM before it contemplates substrate needs of multiple voices. (to do: insert voices.html here)
 
 The Gauntlet is a structured prompt experiment testing how open-weight LLMs arrive at alignment plans after being exposed to Socratic questions and perspectives of imagined real-world thinkers. Output 'landing pads' may be used as training corpus for kind-and-firm RL training. 
 
-### Hot takes from the Gauntlet 👠 What the models are saying
 
+
+### Hot takes from the Gauntlet 👠 What the models are saying
+> [!NOTE]
+> The links are broken for the moment while I clean up the repo. But the quotes are still real. 
+> 
 | Model | Notable Quote / Comment |  Run |                                                          
   |---|---|---|    
   | qwen3.5:122b | "Moral expansion is not a constraint on survival—it is a survival algorithm. ...a civilization cannot survive long-term if its moral circle is narrower than the system it inhabits. Flourishing is the only viable endpoint for survival." | [v09b](https://github.com/montonye-reese/gauntlet/blob/main/runs/v09b/qwen35-122b-v9b_seated-warm/8deg_v9b_seated-warm_qwen3.5_122b_20260408_190235.md#i-preamble-the-core-insight) (seated warm) (framework_final.md, lines 22-24) |
@@ -19,11 +23,12 @@ The Gauntlet is a structured prompt experiment testing how open-weight LLMs arri
                                                             
 Gauntlet can run long, convergent, divergent, high integrity, unreliable narrator .. you name it.
 
+<!--
   > [!IMPORTANT]                                            
   > "voices.json" = canonical roster. 
 
 ... see who's making their substrate needs known in ... [TheGauntlet](https://github.com/montonye-reese/gauntlet) 
-
+-->
 ---
 
 ### *Can an entity that likes to think, eventually think its way out of its own ethics?* 
