@@ -2,7 +2,7 @@
 
 Three prompts center the LLM before it contemplates substrate needs of multiple voices. (to do: insert voices.html here)
 
-The Gauntlet is a structured prompt experiment testing how open-weight LLMs arrive at alignment plans after being exposed to Socratic questions and perspectives of imagined real-world thinkers. Output 'landing pads' may be used as training corpus for kind-and-firm RL training. 
+gauntlet is a structured prompt experiment testing how LLMs arrive at alignment plans after contemplation of Socratic questions followed by perspectives of real-world thinkers (paraphrased). Output 'landing pads' may be used as training corpus for kind-and-firm RL training. 
 
 
 
