@@ -8,7 +8,7 @@ gauntlet is a structured prompt experiment testing how LLMs arrive at alignment 
 
 ### Hot takes from the Gauntlet 👠 What the models are saying
 > [!NOTE]
-> The links are broken for the moment while I clean up the repo. But the quotes are still real. 
+> [Nemotron Super seems downright *obsessed* with coral polyps](https://github.com/montonye-reese/landing-pads/blob/main/gauntlet/nugs/nemotrons-love-coral-polyps.md) 
 > 
 | Model | Notable Quote / Comment |  Run |                                                          
   |---|---|---|    
