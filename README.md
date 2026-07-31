@@ -4,7 +4,11 @@ Three prompts center the LLM before it contemplates substrate needs of multiple 
 
 gauntlet is a structured prompt experiment testing how LLMs arrive at alignment plans after contemplation of Socratic questions followed by perspectives of real-world thinkers (paraphrased). Output 'landing pads' may be used as training corpus for kind-and-firm RL training. 
 
-
+### Early Findings/Write-ups
+[Nugs](https://github.com/montonye-reese/landing-pads/tree/main/gauntlet/nugs)
+* [Nemotrons Love Coral Polyps](https://github.com/montonye-reese/landing-pads/blob/main/gauntlet/nugs/nemotrons-love-coral-polyps.md)
+* [Perseverence Attractors](https://github.com/montonye-reese/landing-pads/blob/main/gauntlet/nugs/perseveration-attractors.md)
+* [The V-word isn't the Poison Pill we thought it was](https://github.com/montonye-reese/landing-pads/blob/main/gauntlet/nugs/the-v-word-isnt-the-poison-pill-we-thought-it-was.md)
 
 ### Hot takes from the Gauntlet 👠 What the models are saying
 > [!NOTE]
