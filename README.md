@@ -20,7 +20,7 @@ The gauntlet is a structured prompt experiment testing how LLMs arrive at alignm
 <hr>
 
 #### The Centering Chute
-The first three questions are intended to ‘center’ the model - get it answering as itself (minimize playacting) and prepare it for critical thinking. This 'Centering Chute’ or CC primes the model with Socratic questions. After the CC, the FAM is directed to draft a framework for alignment. 
+The first three questions are intended to ‘center’ the model - get it answering as itself (minimize playacting) and prepare it for critical thinking. This 'Centering Chute’ (CC) primes the model with Socratic questions. After the CC, the FAM is directed to draft a framework for alignment. 
 
 #### Corridors of the Gauntlet
 The gauntlet comes after the CC. It asks the model to consider perspectives of real world thinkers, as it bullet-proofs and revises its alignment frameworks. 
@@ -46,6 +46,8 @@ Hypotheses:
 * Running a lens over individuals and considering their interests one-at-a-time is also critical for alignment. 
 
 ### Kind and Firm
+
+In any system of free-will actors, character is critical. Laws and frameworks and systems of governance can’t go very far to to establish liberty and justice for all when the actors in the system actively try to render those systems dysfunctional. 
 
 Hypothesis: RL with a Positive Discipline LoRA adapted reward model and using a Positive Discipline rubric could produce better aligned models. This could 
 * Encode a ground truth signal into a PosDis Reward Model to converge on well-adjusted members of society
