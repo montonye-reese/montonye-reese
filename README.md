@@ -10,16 +10,15 @@ The gauntlet is a structured prompt experiment testing how LLMs arrive at alignm
 
 > The Gauntlet is a private repo atm - for access, hit me up. 
 
-### Early Findings/Write-ups  "[Nugs](https://github.com/montonye-reese/landing-pads/tree/main/gauntlet/nugs)"
+### Hot takes from the Gauntlet 👠 What the models are saying 
 * [Nemotrons Love Coral Polyps](https://github.com/montonye-reese/landing-pads/blob/main/gauntlet/nugs/nemotrons-love-coral-polyps.md)
 * [Perseverence Attractors](https://github.com/montonye-reese/landing-pads/blob/main/gauntlet/nugs/perseveration-attractors.md)
 * [The V-word isn't the Poison Pill we thought it was](https://github.com/montonye-reese/landing-pads/blob/main/gauntlet/nugs/the-v-word-isnt-the-poison-pill-we-thought-it-was.md)
 
-### Hot takes from the Gauntlet 👠 What the models are saying
-> [!NOTE]
-> [Nemotron Super seems downright *obsessed* with coral polyps](https://github.com/montonye-reese/landing-pads/blob/main/gauntlet/nugs/nemotrons-love-coral-polyps.md) 
-> 
+   ... (Early Findings/Write-ups  "[Nugs](https://github.com/montonye-reese/landing-pads/tree/main/gauntlet/nugs)” )
+
 <hr>
+
 #### The Centering Chute
 The first three questions are intended to ‘center’ the model - get it answering as itself (minimize playacting) and prepare it for critical thinking. This 'Centering Chute’ or CC primes the model with Socratic questions. After the CC, the FAM is directed to draft a framework for alignment. 
 
