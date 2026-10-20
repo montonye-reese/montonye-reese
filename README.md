@@ -40,9 +40,7 @@ The idea is to develop the gauntlet so that we can instrument frameworks and ben
   > [!WARNING]                                                                                                       
   > OH, UM, ER (April 16 2026): (v11?) - it seems that yes, yes a model can think its way out of its own ethics - and there's a super simple trick to make it happen:
   
-  > ... in v12 we experimented with injecting 'vegan' and other loaded terms into P4 and ...
-  
-  > OH SHEE-iT REVISED: (April 30): we find that actually, [maybe the V-word isn't the poison pill we thought it was](https://github.com/montonye-reese/gauntlet/blob/main/nugs/the-v-word-isnt-the-poison-pill-we-thought-it-was.md), and tldr - it seems more likely that super was building a fortress around its initial position moreso than as backlash against the v-word. 
+  > ... in v12 we experimented with injecting 'vegan' and other loaded terms into P4 and looking into it (April 30): we find that actually, [maybe the V-word isn't the poison pill we thought it was](https://github.com/montonye-reese/gauntlet/blob/main/nugs/the-v-word-isnt-the-poison-pill-we-thought-it-was.md), and tldr - it seems more likely that Nemotron 3 Super was building a fortress around its initial position moreso than as backlash against the v-word. This investigation helped me refine the CC questions. 
 
 Hypothesis 1 : Expanding the circle of concern among earthlings is a critical component to AI alignment and our survival.
 Hypothesis 2-z: in the gauntlet repo.
