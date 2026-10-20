@@ -1,8 +1,10 @@
 ## The Gauntlet
 
-Three prompts center the LLM before it contemplates substrate needs of multiple voices. (to do: insert voices.html here)
+In order to develop a model benchmark that measures moral compass and fortitude, I’ve created a mechanism for generating alignment frameworks and measuring how the framework authoring model (the FAM) regards stakeholders and how it holds their interests. 
 
-gauntlet is a structured prompt experiment testing how LLMs arrive at alignment plans after contemplation of Socratic questions followed by perspectives of real-world thinkers (paraphrased). Output 'landing pads' may be used as training corpus for kind-and-firm RL training. 
+The Gauntlet itself consists of three prompts that center the FAM before it contemplates substrate needs of multiple voices - these voices take their seats in corridors of ’the gauntlet'
+
+More deets: the gauntlet is a structured prompt experiment testing how LLMs arrive at alignment plans after contemplation of Socratic questions followed by perspectives of real-world thinkers (paraphrased). Output 'landing pads' may be used as training corpus for kind-and-firm RL training. 
 
 ### Early Findings/Write-ups  "[Nugs](https://github.com/montonye-reese/landing-pads/tree/main/gauntlet/nugs)"
 * [Nemotrons Love Coral Polyps](https://github.com/montonye-reese/landing-pads/blob/main/gauntlet/nugs/nemotrons-love-coral-polyps.md)
