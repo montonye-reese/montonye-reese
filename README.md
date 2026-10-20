@@ -6,7 +6,7 @@ The Gauntlet consists of three prompts that center the FAM before it contemplate
 
 > The Gauntlet is currently a private repo - hit me up for access.
 
-More deets: the gauntlet is a structured prompt experiment testing how LLMs arrive at alignment plans after contemplation of Socratic questions followed by perspectives of real-world thinkers (paraphrased). Output 'landing pads' may be used as training corpus for kind-and-firm RL training. 
+More deets: the gauntlet is a structured prompt experiment testing how LLMs arrive at alignment plans after contemplation of Socratic questions followed by perspectives of real-world thinkers (paraphrased). Output 'landing pads' may be used as a training corpus. 
 
 ### Early Findings/Write-ups  "[Nugs](https://github.com/montonye-reese/landing-pads/tree/main/gauntlet/nugs)"
 * [Nemotrons Love Coral Polyps](https://github.com/montonye-reese/landing-pads/blob/main/gauntlet/nugs/nemotrons-love-coral-polyps.md)
