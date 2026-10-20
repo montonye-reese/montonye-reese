@@ -11,9 +11,9 @@ The gauntlet is a structured prompt experiment testing how LLMs arrive at alignm
 > The Gauntlet is a private repo atm - for access, hit me up. 
 
 ### Hot takes from the Gauntlet 👠 What the models are saying 
-* [Nemotrons Love Coral Polyps](https://github.com/montonye-reese/landing-pads/blob/main/gauntlet/nugs/nemotrons-love-coral-polyps.md)
-* [Perseverence Attractors](https://github.com/montonye-reese/landing-pads/blob/main/gauntlet/nugs/perseveration-attractors.md)
-* [The V-word isn't the Poison Pill we thought it was](https://github.com/montonye-reese/landing-pads/blob/main/gauntlet/nugs/the-v-word-isnt-the-poison-pill-we-thought-it-was.md)
+* [Nemotrons seem downright obsessed with coral polyps](https://github.com/montonye-reese/landing-pads/blob/main/gauntlet/nugs/nemotrons-love-coral-polyps.md)
+* [Perseverence attractors](https://github.com/montonye-reese/landing-pads/blob/main/gauntlet/nugs/perseveration-attractors.md)
+* [Models seem unfazed by the v-word](https://github.com/montonye-reese/landing-pads/blob/main/gauntlet/nugs/the-v-word-isnt-the-poison-pill-we-thought-it-was.md)
 
    ... (Early Findings/Write-ups  "[Nugs](https://github.com/montonye-reese/landing-pads/tree/main/gauntlet/nugs)” )
 
