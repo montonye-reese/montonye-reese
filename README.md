@@ -1,6 +1,6 @@
 # The Gauntlet
 
-In order to develop a benchmark that measures AI model moral compass and model moral fortitude, I’ve created The Gauntlet. Compute Platform: My DGX Spark.
+In order to develop a benchmark that measures AI model moral compass and model moral fortitude, I’ve created The Gauntlet - on my home DGX Spark.
 
 > The Gauntlet is a private repo atm - for access, hit me up. 
 
