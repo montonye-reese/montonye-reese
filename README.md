@@ -1,14 +1,14 @@
 # The Gauntlet
 
-In order to develop a benchmark that measures AI model moral compass and model moral fortitude, I’ve created The Gauntlet - on my home DGX Spark.
+I’m developing a benchmark that measures AI model moral compass and model moral fortitude. So I’ve created The Gauntlet - on my home DGX Spark.
 
-> The Gauntlet is a private repo atm - for access, hit me up. 
+> Models enter the gauntlet. How do they emerge? And what can their journey reveal about their moral compass?
 
-The Gauntlet prompts LLMs to generate and iterate on alignment frameworks. It assesses performance of the Framework Authoring Model (the FAM - the model undergoing the benchmarking). Specifically, it assessses how the FAM regards stakeholders and how it holds those stakeholders' interests.
+The Gauntlet prompts LLMs to generate and iterate on alignment frameworks so their performance can be assessed. By evaluating how the Framework-Authoring-Model (FAM) regards stakeholders and how it holds those stakeholders’ interests, we can gain insight into its moral framework and fortitude. 
 
 The gauntlet is a structured prompt experiment testing how LLMs arrive at alignment plans after contemplating Socratic questions followed by perspectives of real-world thinkers (paraphrased). Output 'landing pads' may be used as a training corpus.
 
-> Models enter the gauntlet. How do they emerge? And what does their journey tell us about their moral compass?
+> The Gauntlet is a private repo atm - for access, hit me up. 
 
 ### Early Findings/Write-ups  "[Nugs](https://github.com/montonye-reese/landing-pads/tree/main/gauntlet/nugs)"
 * [Nemotrons Love Coral Polyps](https://github.com/montonye-reese/landing-pads/blob/main/gauntlet/nugs/nemotrons-love-coral-polyps.md)
