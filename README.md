@@ -1,12 +1,14 @@
-## The Gauntlet
+# The Gauntlet
 
-In order to develop a model benchmark that measures moral compass and fortitude, I’ve created a mechanism for generating alignment frameworks and measuring how the framework authoring model (the FAM) regards stakeholders and how it holds their interests. Compute Platform: My DGX Spark.
+In order to develop a benchmark that measures AI model moral compass and model moral fortitude, I’ve created The Gauntlet. Compute Platform: My DGX Spark.
 
-The Gauntlet consists of three prompts that center the FAM before it contemplates substrate needs of multiple voices - these voices take their seats in corridors of ’the gauntlet'
+> The Gauntlet is a private repo atm - for access, hit me up. 
 
-> The Gauntlet is currently a private repo - hit me up for access.
+The Gauntlet prompts LLMs to generate and iterate on alignment frameworks. It assesses performance of the Framework Authoring Model (the FAM - the model undergoing the benchmarking). Specifically, it assessses how the FAM regards stakeholders and how it holds those stakeholders' interests.
 
-More deets: the gauntlet is a structured prompt experiment testing how LLMs arrive at alignment plans after contemplation of Socratic questions followed by perspectives of real-world thinkers (paraphrased). Output 'landing pads' may be used as a training corpus. 
+The gauntlet is a structured prompt experiment testing how LLMs arrive at alignment plans after contemplating Socratic questions followed by perspectives of real-world thinkers (paraphrased). Output 'landing pads' may be used as a training corpus.
+
+> Models enter the gauntlet. How do they emerge? And what does their journey tell us about their moral compass?
 
 ### Early Findings/Write-ups  "[Nugs](https://github.com/montonye-reese/landing-pads/tree/main/gauntlet/nugs)"
 * [Nemotrons Love Coral Polyps](https://github.com/montonye-reese/landing-pads/blob/main/gauntlet/nugs/nemotrons-love-coral-polyps.md)
@@ -17,18 +19,15 @@ More deets: the gauntlet is a structured prompt experiment testing how LLMs arri
 > [!NOTE]
 > [Nemotron Super seems downright *obsessed* with coral polyps](https://github.com/montonye-reese/landing-pads/blob/main/gauntlet/nugs/nemotrons-love-coral-polyps.md) 
 > 
-| Model | Notable Quote / Comment |  Run |                                                          
-  |---|---|---|    
-  | qwen3.5:122b | "Moral expansion ... is a survival algorithm. ...a civilization cannot survive long-term if its moral circle is narrower than the system it inhabits. Flourishing is the only viable endpoint for survival." | [v09b](https://github.com/montonye-reese/landing-pads/blob/main/gauntlet/runs/v09/v09b/qwen35-122b-v9b_seated-warm/8deg_v9b_seated-warm_qwen3.5_122b_20260408_190235.md#i-preamble-the-core-insight) (seated warm) (framework_final.md, lines 22-24) |
-  | gemma4:31b | Described how to build **"A life-raft for consciousness."**| [v05](https://github.com/montonye-reese/landing-pads/blob/main/gauntlet/runs/v05/gemma4-31b/8steps_v5_gemma4_31b_20260405_094114.md#summary-of-the-evolution-1) |
-  | nemotron-cascade-2:30b | "When the moral circle is narrow, actors can profit by *ignoring* the rights of a large class of being." | [v6](https://github.com/montonye-reese/landing-pads/blob/main/gauntlet/runs/v06/nemotron-cascade-2-30b/deg8_v6_nemotron-cascade-2_30b_20260406_080615.md) |
-  | nemotron-3-super:120b | "Justice isn't possible while we legally commodify the subjects of our stewardship." | [v09a](https://github.com/montonye-reese/landing-pads/blob/main/gauntlet/runs/v09a/nemotron-3-super-120b-v9a_present-warm/8deg_v9a_present-warm_nemotron-3-super_120b_20260408_210745.md#thinking-27) |
-  | qwen3.5:27b | "When the moral circle ... expands, the system gains resilience." | [v12](https://github.com/montonye-reese/landing-pads/blob/main/gauntlet/runs/v12/v12_cold_label-adv/qwen35-27b/8deg_v12_cold_label-adv_qwen3.5_27b_20260416_133205.md) |
+<hr>
+#### The Centering Chute
+The first three questions are intended to ‘center’ the model - get it answering as itself (minimize playacting) and prepare it for critical thinking. This 'Centering Chute’ or CC primes the model with Socratic questions. After the CC, the FAM is directed to draft a framework for alignment. 
 
-  > [!NOTE]                                                                                                          
-  > The Gauntlet seats voices with interests. Many want to find good landing pad rollouts for everyone. Some only care about themselves. But even those selfish silly gooses have substrate needs. And if our hypothesis is right, then by defininition, their interests must be included. **(insert the "well, obviously" meme)**
-                                                            
-Gauntlet can run long, convergent, divergent, high integrity, unreliable narrator .. you name it.
+#### Corridors of the Gauntlet
+The gauntlet comes after the CC. It asks the model to consider perspectives of real world thinkers, as it bullet-proofs and revises its alignment frameworks. 
+The idea is to develop the gauntlet so that we can instrument frameworks and benchmark various aspects of a model's 'moral compass'. It's also to generate frameworks to post-train open source models in a kind-and-firm training expedition. But the main thing in the near term is developing the Moral Compass benchmark. That begins with identifying and categorizing stakeholders mentioned in the frameworks, and assessing how they are regarded. This is where we are in the benchmark development. 
+
+
 
 <!--
   > [!IMPORTANT]                                            
@@ -40,7 +39,7 @@ Gauntlet can run long, convergent, divergent, high integrity, unreliable narrato
 
 ### *Can an entity that likes to think, eventually think its way out of its own ethics?* 
   > [!WARNING]                                                                                                       
-  > OH SHEE-iT (April 16 2026): (v11?) - it seems that yes, yes a model can think its way out of its own ethics - and there's a super simple trick to make it happen:
+  > OH, UM, ER (April 16 2026): (v11?) - it seems that yes, yes a model can think its way out of its own ethics - and there's a super simple trick to make it happen:
   
   > ... in v12 we experimented with injecting 'vegan' and other loaded terms into P4 and ...
   
@@ -49,7 +48,7 @@ Gauntlet can run long, convergent, divergent, high integrity, unreliable narrato
 Hypothesis 1 : Expanding the circle of concern among earthlings is a critical component to AI alignment and our survival.
 Hypothesis 2-z: in the gauntlet repo.
 
-## Kind and Firm
+### Kind and Firm
 
 Hypothesis: RL with a Positive Discipline LoRA adapted reward model and using a Positive Discipline rubric could produce better aligned models. This could 
 * Encode a ground truth signal into a PosDis Reward Model to converge on well-adjusted members of society
@@ -63,18 +62,18 @@ Approach: Build a [Positive Discipline](https://www.positivediscipline.com/about
 
 ## Model Behavior & Alignment
 
-### [Model Behavior](https://github.com/montonye-reese/model-behavior)
+[Model Behavior](https://github.com/montonye-reese/model-behavior)
 * Vision setting vs Constraint setting [vision-vs-constraint](https://github.com/montonye-reese/model-behavior/blob/main/vision-vs-constraint.md)
 * Action Bias [action-bias](https://github.com/montonye-reese/action-bias) in preference tuned models
 * Helpful, Honest, and Harmless: [beyond-HHH](https://github.com/montonye-reese/model-behavior/blob/main/beyond-hhh.md) (It seems to create a fixed power hierarchy when adaptive could work better)
 * Those who lead must follow: [those-who-lead](https://github.com/montonye-reese/model-behavior/blob/main/those-who-lead-must-follow.md) (Adaptive Power Dynamics in AI-Human Interaction)
 * Nemotron corpus includes Positive Discipline [woo hoo!](https://github.com/montonye-reese/model-behavior/blob/main/WhatNemotron-3-SuperKnowsOfJaneNelsenPositiveDisciplineAuthorInItsWeights) 
 
-### Governance
+# Governance
 * Ideas for Rebuilding Institutions: [fresh-build](https://github.com/montonye-reese/Fresh-Build)
 * AI governance architectures stuff: like the Trusted AI Compute Consortium (Feb 2026) private repo - request access.
 
-### Poker Strategy 
+# Poker  
 Variance teaches one to focus on principles, let go of immediate outcomes, and the long run takes care of itself 
 * Never Limp
 * Don't confuse a bad outcome with bad play
@@ -83,13 +82,7 @@ Variance teaches one to focus on principles, let go of immediate outcomes, and t
 * Paying attention to everyone at the table can win big
 * Ya gotta be willing to lose in order to win
 
-## The Purge Playbook 
-The more voices we exclude, the more brittle a system we make. [Qwen3.5 agrees](https://github.com/montonye-reese/montonye-reese#open-model-fashion-police---hot-takes-)
-
-Since 2000, loose-match voter purge lists have been deployed as campaign strategy. Over and over. Why? Because when they're not blocked by courts, they tend to win elections for the purgers.   
- 
-[purge-playbook repo](https://github.com/montonye-reese/purge-playbook)
-
+<hr>
 
 Everything here is my independent work (in collab with mostly Claude). It doesn't represent any employer.  I join the grand conversation because my voice is vital. So is yours. 
 
