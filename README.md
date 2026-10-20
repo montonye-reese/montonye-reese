@@ -2,7 +2,9 @@
 
 In order to develop a model benchmark that measures moral compass and fortitude, I’ve created a mechanism for generating alignment frameworks and measuring how the framework authoring model (the FAM) regards stakeholders and how it holds their interests. Compute Platform: My DGX Spark.
 
-[The Gauntlet](https://github.com/montonye-reese/gauntlet/blob/main/README.md) consists of three prompts that center the FAM before it contemplates substrate needs of multiple voices - these voices take their seats in corridors of ’the gauntlet'
+The Gauntlet consists of three prompts that center the FAM before it contemplates substrate needs of multiple voices - these voices take their seats in corridors of ’the gauntlet'
+
+> The Gauntlet is currently a private repo - hit me up for access.
 
 More deets: the gauntlet is a structured prompt experiment testing how LLMs arrive at alignment plans after contemplation of Socratic questions followed by perspectives of real-world thinkers (paraphrased). Output 'landing pads' may be used as training corpus for kind-and-firm RL training. 
 
