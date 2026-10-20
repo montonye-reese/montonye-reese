@@ -74,7 +74,7 @@ Approach: Build a [Positive Discipline](https://www.positivediscipline.com/about
 
 # Poker  
 Variance teaches one to focus on principles, let go of immediate outcomes, and the long run takes care of itself 
-* Never Limp
+* Never limp
 * Don't confuse a bad outcome with bad play
 * Don't confuse a good outcome with good play
 * Aggression tends to win
