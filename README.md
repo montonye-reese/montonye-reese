@@ -1,6 +1,6 @@
 ## The Gauntlet
 
-In order to develop a model benchmark that measures moral compass and fortitude, I’ve created a mechanism for generating alignment frameworks and measuring how the framework authoring model (the FAM) regards stakeholders and how it holds their interests. 
+In order to develop a model benchmark that measures moral compass and fortitude, I’ve created a mechanism for generating alignment frameworks and measuring how the framework authoring model (the FAM) regards stakeholders and how it holds their interests. Compute Platform: My DGX Spark.
 
 The Gauntlet itself consists of three prompts that center the FAM before it contemplates substrate needs of multiple voices - these voices take their seats in corridors of ’the gauntlet'
 
